@@ -1,0 +1,42 @@
+[project]
+name = "cricket-analysis"
+version = "0.1.0"
+description = "Ball-by-ball T20 cricket data analysis"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "polars",
+    "pyarrow",       # parquet I/O + shared Arrow backend for pandas/polars
+    "scipy",
+    "statsmodels",
+    "pandera",       # schema validation (see cricket_schema.py)
+    "matplotlib",
+    "seaborn",
+    "jupyterlab",
+    "scikit-learn>=1.9.0",
+    "pymc>=5.16",
+    "arviz>=1.3.0",
+    "plotly>=6.9.0",
+    "marimo>=0.24.0",
+    "ipykernel>=7.3.0",
+    "pytensor>=2.25",
+    "ruptures==1.1.10",
+]
+
+# Dev-only tools: installed in this project but not part of the shipped package.
+# Add/remove with:  uv add --dev <pkg>  /  uv remove --dev <pkg>
+[dependency-groups]
+dev = [
+    "ruff",          # linter + formatter
+    "ipykernel",     # lets editors/Jupyter find this env's kernel
+]
+
+# Optional extras you can uncomment later, then run `uv sync`:
+#   "scikit-learn",  # predictive modelling
+#   "pingouin",      # tidy statistical tests with effect sizes + CIs
+#   "plotly",        # interactive wagon-wheel plots from wagonX/wagonY
+#   "pymc", "arviz", # Bayesian modelling (win probability, hierarchical models)
+
+[tool.ruff]
+line-length = 100

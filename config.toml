@@ -1,0 +1,89 @@
+# Run configuration for every analysis in this project. One file, read by
+# scripts/common/config.py. Every output table records which of these values it
+# was produced under (see the .meta.json sidecar next to each table).
+#
+# Seeds are fixed integers chosen once when written here (formatted like a
+# timestamp so they are easy to recognise). They are never derived from the clock
+# at run time: a run-time seed would make every run irreproducible.
+
+[seeds]
+global = 202609081209
+mean_level_and_tail = 202609081209
+dispersion_and_attribution = 202609081209
+interval_coverage = 202609081209
+impact_substitute = 202609081209
+phase_boundaries = 202609081209
+expected_wickets = 202609081209
+
+[seasons]
+earlier = 2023
+later = 2024
+
+# Cricket phases in over number (1-indexed), the fixed grid every phase-conditioned
+# rate is measured on. Phase-boundary detection tests this grid; nothing else moves it.
+[phases]
+powerplay = [1, 6]
+middle = [7, 15]
+death = [16, 20]
+
+[bootstrap]
+n_resamples = 10000
+interval_level = 0.95      # reported intervals; "all intervals are 95% unless stated"
+equivalence_level = 0.90   # the two-one-sided-tests interval at alpha = 0.05
+# Minimum detectable effect at 80% power, two-sided 5%, as a multiple of the SE.
+mde_se_multiple = 2.80
+# A log-ratio bootstrap bias larger than this multiple of the bootstrap SE is flagged
+# in the results table (BCa already corrects it; the flag makes it visible).
+ratio_bias_flag_se_multiple = 0.25
+
+# Smallest effect sizes of interest, pre-stated so an equivalence verdict is a test
+# and not a reading. Each carries a one-line justification.
+[sesoi]
+# Curvature contrasts and middle-against-league, run rate: about half the observed
+# powerplay run-rate rise; a shape effect smaller than that is not worth a headline.
+run_rate_rpo = 0.50
+# Boundary share: 1.5 points is roughly one extra boundary per 65 balls faced, the
+# smallest shift a coach would plan around.
+boundary_share_points = 1.5
+# Six share: 0.75 points, half the boundary SESOI because sixes are half as common.
+six_share_points = 0.75
+# Impact-substitute shares (second-innings share of deployments, death-entry share
+# within an innings): 10 points is roughly one deployment in ten changing category.
+impact_share_points = 10.0
+# Expected powerplay wickets: 0.3 wickets per 36-ball powerplay.
+expected_wickets_per_ball = 0.008
+
+# Innings-total tail (Thread 3). Chasing innings are censored at the target, so the
+# primary population is first innings with a full 120-ball allowance.
+[tail]
+threshold_runs = 220
+exceedance_thresholds = [180, 200, 220]
+quantile_grid = [0.50, 0.60, 0.70, 0.80, 0.90]
+full_innings_balls = 120
+# Generalized Pareto fit above this threshold runs only if both seasons have at
+# least gpd_min_exceedances first innings above it.
+gpd_threshold = 180
+gpd_min_exceedances = 15
+gpd_resamples = 2000
+
+[mcmc]
+chains = 4
+draws = 2000
+tune = 2000
+target_accept = 0.99
+
+[interval_coverage]
+n_datasets = 10000
+n_resamples_per_dataset = 10000
+league_clusters_per_season = 70
+team_clusters_per_season = 14
+
+[expected_wickets]
+model_refit_resamples = 500
+
+[paths]
+data_dir = "data"
+outputs_dir = "outputs"
+cleaned_dataset = "dpl_prelims_clean.parquet"
+impact_player_table = "impact_player_table.parquet"
+match_rosters = "match_rosters.parquet"
