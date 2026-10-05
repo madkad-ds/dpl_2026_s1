@@ -1,0 +1,21 @@
+# Inputs and intermediate data: provided files, the cached Cricsheet archive, parquets
+data/*
+
+# Quick-mode backup written by run_all.py and removed on exit
+config.toml.full
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# PyMC and pytensor compile caches
+.pytensor/
