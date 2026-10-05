@@ -1,0 +1,4 @@
+outcome,run_rate_level,attempt_log_odds,gear_up_from_baseline
+run_rate_level,1.0,0.6529523042221288,0.47263633519688614
+attempt_log_odds,0.6529523042221288,1.0,0.3259300532304349
+gear_up_from_baseline,0.47263633519688614,0.3259300532304349,1.0

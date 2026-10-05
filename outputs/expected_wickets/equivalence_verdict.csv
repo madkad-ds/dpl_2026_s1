@@ -1,0 +1,3 @@
+channel,estimate,ci90_low,ci90_high,ci95_low,ci95_high,se,sesoi,mde_80pct_power,mde_exceeds_sesoi,verdict,unit,interval_method,variant,model
+expected_powerplay_wicket_rate_change,0.00016032720322686767,-0.0001004015303757603,0.00041850344950304587,-0.00014754786348303495,0.0004646626468910194,0.00015702819779912756,0.008,0.0004396789538375571,False,equivalent_to_zero,wickets per ball,percentile,situation,logistic
+expected_powerplay_wicket_rate_change,0.00023054724058031023,-2.9128159171742247e-05,0.00048606206018520615,-7.82456309086514e-05,0.0005334755393459202,0.00015567635647641516,0.008,0.0004358937981339624,False,equivalent_to_zero,wickets per ball,percentile,situation_bowler,logistic

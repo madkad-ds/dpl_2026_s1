@@ -1,0 +1,20 @@
+{
+  "figure": "run_rate_mechanism",
+  "title": "Where the extra runs came from: sixes, and almost nothing else",
+  "caption": "Exact Shapley attribution of the run-rate change to fours, sixes, dots, running and extras; the parts sum to the total on every match resample. All innings.",
+  "narration": "In the powerplay, three quarters of the rise is more boundaries and a quarter is boundaries becoming sixes. Dots, running and extras did not move in any phase.",
+  "numbers": {
+    "totals": {
+      "powerplay": 0.7278831720481627,
+      "middle": 0.3641935476731284,
+      "death": 0.6849480291803811,
+      "whole_innings": 0.5370156276470492
+    },
+    "sixes": {
+      "powerplay": 0.5972742931709683,
+      "middle": 0.2619968874136524,
+      "death": 0.4075652150834146,
+      "whole_innings": 0.3849029500532852
+    }
+  }
+}

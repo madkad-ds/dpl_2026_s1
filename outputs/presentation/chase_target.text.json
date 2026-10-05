@@ -1,0 +1,28 @@
+{
+  "figure": "chase_target",
+  "title": "Chasing sides went harder at every target, and decided it early",
+  "caption": "Change in the chasing run rate, 2024 minus 2023, raw and at a common target of 180 from a linear model with a season term, match bootstrap intervals; later phases on the chases that reached them.",
+  "narration": "The powerplay change survives at a common target, so it is a change of approach; in the middle overs the scoreboard, not the season, drives the rate. Batting first attacked less than chasing in both seasons.",
+  "numbers": {
+    "Powerplay, raw": {
+      "estimate": 1.1450254035629328,
+      "ci_low": 0.4155556627435838,
+      "ci_high": 1.8918949771689473
+    },
+    "Powerplay, at a common target": {
+      "estimate": 1.022685624356443,
+      "ci_low": 0.2521725951612045,
+      "ci_high": 1.785312066689079
+    },
+    "Middle overs, at a common target": {
+      "estimate": 0.3366110250771884,
+      "ci_low": -0.3051382213992715,
+      "ci_high": 0.9899153884431916
+    },
+    "Death, at a common target": {
+      "estimate": 0.65364237170768,
+      "ci_low": -0.4131726929414305,
+      "ci_high": 1.663957322830043
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "figure": "wicket_cost_three_levels",
+  "title": "No wicket cost, at three levels of accounting",
+  "caption": "Change 2024 minus 2023, zero the common null. Actual rate: match bootstrap. Expected rate: situation-only model, out-of-fold, refit interval. Per aggressive shot: residual regression under the match bootstrap; carries the shot-tag floor. Band: the SESOI (smallest effect size of interest) stated in advance for the expected rate, 0.3 wickets per powerplay.",
+  "narration": "The extra sixes cost nothing in wickets: not in the actual rate, not in the rate the situations predicted, not per aggressive shot.",
+  "numbers": {
+    "Actual wicket rate": {
+      "estimate": 0.15641467854747482,
+      "ci_low": -0.0825428763054504,
+      "ci_high": 0.40563020983041
+    },
+    "Expected, given the situations faced": {
+      "estimate": 0.0057717793161648,
+      "ci_low": -0.0185499289929744,
+      "ci_high": 0.0139228640094456
+    },
+    "Cost per aggressive shot": {
+      "estimate": 0.6463164661462,
+      "ci_low": -2.14229908153301,
+      "ci_high": 3.4893717185290005
+    }
+  }
+}

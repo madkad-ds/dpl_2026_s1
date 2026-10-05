@@ -1,0 +1,39 @@
+{
+  "analysis": "expected_wickets",
+  "seed": 202609081209,
+  "run_timestamp_utc": "2026-09-25T14:46:12+00:00",
+  "producer": "expected_wickets.ipynb",
+  "bootstrap": {
+    "n_resamples": 10000,
+    "interval_level": 0.95,
+    "equivalence_level": 0.9,
+    "mde_se_multiple": 2.8,
+    "ratio_bias_flag_se_multiple": 0.25
+  },
+  "seasons": {
+    "earlier": 2023,
+    "later": 2024
+  },
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "sklearn": "1.9.0",
+    "statsmodels": "0.14.6",
+    "pymc": "6.3.1",
+    "arviz": "1.3.0",
+    "ruptures": "v1.1.10",
+    "matplotlib": "3.11.1"
+  },
+  "command": "/Users/madkad/dpl_2026_s1/.venv/lib/python3.12/site-packages/ipykernel_launcher.py --f=/Users/madkad/Library/Jupyter/runtime/kernel-v37070c7f947ba3285eadf90a94aba224f768a8db7.json",
+  "expected_wickets": {
+    "model_refit_resamples": 500,
+    "refit_n_jobs": 4,
+    "decomposition_orders": 30,
+    "baseline_tie_tolerance_brier": 0.0002
+  },
+  "n_resamples": 10000,
+  "fixture": false,
+  "sesoi_per_ball": 0.008
+}

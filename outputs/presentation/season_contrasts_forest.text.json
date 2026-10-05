@@ -1,0 +1,43 @@
+{
+  "figure": "season_contrasts_forest",
+  "title": "What changed between the seasons, with intervals",
+  "caption": "Match cluster bootstrap on the same 10,000 match resamples, 95% intervals (bootstrap-t for rates and shares, log-scale for the ratio). Filled markers clear the null; hollow markers lean. All innings.",
+  "narration": "About 40% more powerplay sixes; the powerplay run rate clears, the middle and death lean; pace displaced spin in every phase, most in the middle.",
+  "numbers": {
+    "powerplay_six_rate_ratio": {
+      "estimate": 1.3898,
+      "ci_low": 1.1353,
+      "ci_high": 1.7002
+    },
+    "powerplay_run_rate_diff": {
+      "estimate": 0.7279,
+      "ci_low": 0.1845,
+      "ci_high": 1.3533
+    },
+    "middle_run_rate_diff": {
+      "estimate": 0.3642,
+      "ci_low": -0.194,
+      "ci_high": 0.9419
+    },
+    "death_run_rate_diff": {
+      "estimate": 0.6849,
+      "ci_low": -0.016,
+      "ci_high": 1.4343
+    },
+    "pace_share_diff_powerplay": {
+      "estimate": 0.0623,
+      "ci_low": 0.0206,
+      "ci_high": 0.1026
+    },
+    "pace_share_diff_middle": {
+      "estimate": 0.1025,
+      "ci_low": 0.0583,
+      "ci_high": 0.1459
+    },
+    "pace_share_diff_death": {
+      "estimate": 0.077,
+      "ci_low": 0.0322,
+      "ci_high": 0.1215
+    }
+  }
+}

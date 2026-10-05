@@ -1,0 +1,13 @@
+channel,boundary,kind,grid_edge,anchor_2023,anchor_2024,modal_over_2023,missing_share_2023,modal_over_2024,missing_share_2024,paired_share,mean_paired_difference,p_abs_difference_ge_1,p_later_earlier_by_ge_1,p_later_later_by_ge_1,verdict
+run_rate,powerplay_to_middle,per_channel,7,7.0,7.0,7.0,0.0015,7.0,0.0078,0.9907,0.11557484606843646,0.622691026546886,0.27202987786413646,0.35066114868274956,not_contradicted
+run_rate,middle_to_death,per_channel,16,,13.0,,1.0,13.0,0.1734,0.0,,,,,not_anchored
+boundary_rate,powerplay_to_middle,per_channel,7,7.0,7.0,7.0,0.0003,7.0,0.0017,0.998,0.007414829659318637,0.05701402805611223,0.027655310621242483,0.02935871743486974,not_contradicted
+boundary_rate,middle_to_death,per_channel,16,,,,1.0,,1.0,0.0,,,,,not_anchored
+dot_rate,powerplay_to_middle,per_channel,7,8.0,7.0,10.0,0.0008,7.0,0.2085,0.7908,-1.7434243803743046,0.8772129489124937,0.7097875569044007,0.16742539200809306,not_contradicted
+dot_rate,middle_to_death,per_channel,16,,,,1.0,,1.0,0.0,,,,,not_anchored
+wicket_rate,powerplay_to_middle,per_channel,7,,,,1.0,,1.0,0.0,,,,,not_anchored
+wicket_rate,middle_to_death,per_channel,16,18.0,16.0,18.0,0.0101,16.0,0.0003,0.9896,-0.4908043654001617,0.6862368633791431,0.4624090541632983,0.22382780921584478,not_contradicted
+pace_share,powerplay_to_middle,per_channel,7,7.0,7.0,7.0,0.0001,7.0,0.0001,0.9998,-0.38537707541508304,0.23204640928185638,0.22124424884976995,0.010802160432086417,not_contradicted
+pace_share,middle_to_death,per_channel,16,,,,1.0,,1.0,0.0,,,,,not_anchored
+batting_matrix,powerplay_to_middle,pooled,7,7.0,7.0,7.0,0.0002,7.0,0.0098,0.99,-0.03111111111111111,0.2197979797979798,0.10232323232323233,0.11747474747474747,not_contradicted
+batting_matrix,middle_to_death,pooled,16,16.0,16.0,16.0,0.1545,16.0,0.0327,0.8219,-0.25599221316461857,0.7049519406253802,0.40248205377783186,0.3024698868475484,not_contradicted

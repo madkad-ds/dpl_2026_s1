@@ -1,0 +1,10 @@
+{
+  "figure": "aggression_premium",
+  "title": "Diminishing returns: each aggressive shot bought half as much in 2024",
+  "caption": "Mean change in win probability on aggressive-shot balls minus other balls, powerplay, both innings, match bootstrap intervals.",
+  "narration": "Boundaries were priced lower as the league's baseline rose; the wicket cost per shot did not change. The approach paid through volume.",
+  "numbers": {
+    "2023": 0.9310547219770522,
+    "2024": 0.5223315629018247
+  }
+}

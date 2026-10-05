@@ -1,0 +1,5 @@
+theme,estimate,ci_low,ci_high,interval_method,bca_low,bca_high,boot_t_low,boot_t_high,raw_scale_bca_low,raw_scale_bca_high,null,resampling_stable,se_boot,se_linearized,log_ratio_bias,log_ratio_bias_flag,scale,interval_level,power_tier,note,n_continuing_batters
+powerplay_six_rate_diff_all_batters,0.018,0.0069,0.0297,bootstrap_t,0.0076,0.0299,0.0069,0.0297,,,0.0,True,0.00572,0.00576,,False,linear,0.95,well_powered,,30
+powerplay_six_rate_ratio_all_batters,1.3898,1.1353,1.7002,bootstrap_t,1.1477,1.7072,1.1353,1.7002,1.1475,1.7069,1.0,True,0.10162,0.10241,-0.0025,False,log,0.95,well_powered,,30
+powerplay_six_rate_diff_continuing_batters_only,0.0143,0.002,0.0268,bootstrap_t,0.0025,0.0269,0.002,0.0268,,,0.0,True,0.00628,0.00637,,False,linear,0.95,well_powered,,30
+powerplay_six_rate_ratio_continuing_batters_only,1.2939,1.0326,1.6064,bootstrap_t,1.0438,1.6149,1.0326,1.6064,1.0436,1.6147,1.0,True,0.11251,0.11385,-0.00087,False,log,0.95,well_powered,,30

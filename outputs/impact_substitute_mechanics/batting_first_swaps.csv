@@ -1,0 +1,36 @@
+season,match_id,team,player_out,out_role,player_in,in_role,deploy_over,deploy_ball_id,out_dismissed_before_entry,dismissal_ball_id,balls_after_dismissal,in_bowled_second_innings
+2023,1359477,Lucknow Super Giants,A Badoni,batter,K Gowtham,bowler,20,19.08,True,19.07,1,True
+2023,1359488,Punjab Kings,P Simran Singh,batter,Sikandar Raza,all_rounder,9,8.06,True,0.01,53,False
+2023,1359491,Rajasthan Royals,JC Buttler,batter,A Zampa,bowler,20,19.06,True,16.02,22,True
+2023,1359494,Royal Challengers Bengaluru,MK Lomror,batter,Anuj Rawat,batter,15,14.03,True,12.03,12,False
+2023,1359495,Lucknow Super Giants,KR Mayers,batter,K Gowtham,bowler,19,18.05,True,7.04,67,True
+2023,1359502,Kolkata Knight Riders,VR Iyer,batter,AS Roy,bowler,15,14.05,True,3.03,68,True
+2023,1359521,Kolkata Knight Riders,JJ Roy,batter,AS Roy,bowler,18,17.04,True,4.06,76,True
+2023,1359522,Rajasthan Royals,YBK Jaiswal,batter,R Parag,batter,9,8.01,True,5.01,18,False
+2023,1359528,Royal Challengers Bengaluru,MK Lomror,batter,KM Jadhav,thin,15,14.01,True,13.04,3,False
+2024,1422120,Delhi Capitals,RK Bhui,thin,Abishek Porel,batter,18,17.02,True,13.02,24,False
+2024,1422129,Lucknow Super Giants,KL Rahul,batter,Naveen-ul-Haq,bowler,20,19.05,True,3.05,96,True
+2024,1422130,Sunrisers Hyderabad,MA Agarwal,batter,Washington Sundar,all_rounder,20,19.03,True,4.02,91,True
+2024,1422132,Mumbai Indians,Naman Dhir,batter,D Brevis,thin,2,1.01,True,0.06,1,False
+2024,1426260,Kolkata Knight Riders,RK Singh,batter,AS Roy,bowler,19,18.04,True,16.04,12,True
+2024,1426261,Sunrisers Hyderabad,TM Head,batter,RA Tripathi,batter,6,5.01,True,3.02,11,False
+2024,1426263,Royal Challengers Bengaluru,RM Patidar,batter,Saurav Chauhan,thin,17,16.06,True,11.03,33,False
+2024,1426264,Lucknow Super Giants,Q de Kock,batter,DJ Hooda,batter,8,7.05,True,2.05,30,False
+2024,1426265,Punjab Kings,P Simran Singh,batter,Ashutosh Sharma,all_rounder,17,16.02,True,6.04,58,False
+2024,1426266,Lucknow Super Giants,Q de Kock,batter,Arshad Khan (2),batter,20,19.02,True,1.07,103,False
+2024,1426270,Gujarat Titans,B Sai Sudharsan,batter,M Shahrukh Khan,batter,9,8.04,True,4.01,27,False
+2024,1426272,Chennai Super Kings,AM Rahane,batter,Sameer Rizvi,thin,12,11.02,True,8.01,19,False
+2024,1426273,Sunrisers Hyderabad,TM Head,batter,Washington Sundar,all_rounder,20,19.05,True,8.08,63,True
+2024,1426275,Punjab Kings,P Simran Singh,batter,Harpreet Singh,batter,14,13.06,True,5.03,51,False
+2024,1426279,Royal Challengers Bengaluru,RM Patidar,batter,Swapnil Singh,bowler,19,18.07,True,12.04,39,True
+2024,1426285,Delhi Capitals,PP Shaw,batter,Kumar Kushagra,thin,13,12.02,True,1.04,64,False
+2024,1426287,Chennai Super Kings,AM Rahane,batter,Sameer Rizvi,thin,10,9.06,True,8.02,10,False
+2024,1426290,Gujarat Titans,B Sai Sudharsan,batter,V Shankar,batter,18,17.04,True,5.03,73,False
+2024,1426293,Sunrisers Hyderabad,Abhishek Sharma,all_rounder,Sanvir Singh,bowler,18,17.01,True,5.05,68,False
+2024,1426294,Delhi Capitals,Abishek Porel,batter,Rasikh Salam,bowler,19,18.05,True,12.04,37,True
+2024,1426300,Royal Challengers Bengaluru,RM Patidar,batter,Swapnil Singh,bowler,19,18.01,True,12.04,33,True
+2024,1426303,Rajasthan Royals,Dhruv Jurel,batter,D Ferreira,thin,15,14.04,True,13.03,7,False
+2024,1426309,Sunrisers Hyderabad,Abhishek Sharma,all_rounder,Sanvir Singh,bowler,14,13.03,True,1.06,69,False
+2024,1426310,Royal Challengers Bengaluru,RM Patidar,batter,Swapnil Singh,bowler,19,18.03,True,14.02,25,True
+2024,1426311,Sunrisers Hyderabad,TM Head,batter,Shahbaz Ahmed,all_rounder,15,14.01,True,9.06,25,True
+2024,1426312,Sunrisers Hyderabad,TM Head,batter,Abdul Samad,batter,12,11.06,True,1.06,60,False

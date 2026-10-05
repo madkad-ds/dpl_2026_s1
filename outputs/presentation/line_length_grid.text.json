@@ -1,0 +1,12 @@
+{
+  "figure": "line_length_grid",
+  "title": "Menu, not mix: every class of delivery was hit harder",
+  "caption": "Powerplay sixes per 100 legal balls by line and length; cell area is the class's share of deliveries; hatched cells are thin (under 300 balls). Line and length are hand-tagged, coverage the same in both seasons.",
+  "narration": "Bowlers went fuller and faster and it made no difference: 97% of the extra sixes came from every class being hit harder, 3% from the changed mix.",
+  "numbers": {
+    "within_share": 0.9700466591952608,
+    "mix_share": 0.0299533408047393,
+    "within": 0.0175016935014443,
+    "mix": 0.0005404216231657
+  }
+}

@@ -1,0 +1,5 @@
+rate,cluster_kind,n_clusters_in_pool,pooled_rate,median_denominator
+powerplay_run_rate,match,145,8.729527104959631,72.0
+powerplay_run_rate,team_innings,289,8.729527104959631,36.0
+powerplay_six_rate,match,145,0.055082719709285646,72.0
+powerplay_six_rate,team_innings,289,0.055082719709285646,36.0

@@ -1,0 +1,284 @@
+{
+  "season_contrasts_forest": {
+    "figure": "season_contrasts_forest",
+    "title": "What changed between the seasons, with intervals",
+    "caption": "Match cluster bootstrap on the same 10,000 match resamples, 95% intervals (bootstrap-t for rates and shares, log-scale for the ratio). Filled markers clear the null; hollow markers lean. All innings.",
+    "narration": "About 40% more powerplay sixes; the powerplay run rate clears, the middle and death lean; pace displaced spin in every phase, most in the middle.",
+    "numbers": {
+      "powerplay_six_rate_ratio": {
+        "estimate": 1.3898,
+        "ci_low": 1.1353,
+        "ci_high": 1.7002
+      },
+      "powerplay_run_rate_diff": {
+        "estimate": 0.7279,
+        "ci_low": 0.1845,
+        "ci_high": 1.3533
+      },
+      "middle_run_rate_diff": {
+        "estimate": 0.3642,
+        "ci_low": -0.194,
+        "ci_high": 0.9419
+      },
+      "death_run_rate_diff": {
+        "estimate": 0.6849,
+        "ci_low": -0.016,
+        "ci_high": 1.4343
+      },
+      "pace_share_diff_powerplay": {
+        "estimate": 0.0623,
+        "ci_low": 0.0206,
+        "ci_high": 0.1026
+      },
+      "pace_share_diff_middle": {
+        "estimate": 0.1025,
+        "ci_low": 0.0583,
+        "ci_high": 0.1459
+      },
+      "pace_share_diff_death": {
+        "estimate": 0.077,
+        "ci_low": 0.0322,
+        "ci_high": 0.1215
+      }
+    }
+  },
+  "run_rate_mechanism": {
+    "figure": "run_rate_mechanism",
+    "title": "Where the extra runs came from: sixes, and almost nothing else",
+    "caption": "Exact Shapley attribution of the run-rate change to fours, sixes, dots, running and extras; the parts sum to the total on every match resample. All innings.",
+    "narration": "In the powerplay, three quarters of the rise is more boundaries and a quarter is boundaries becoming sixes. Dots, running and extras did not move in any phase.",
+    "numbers": {
+      "totals": {
+        "powerplay": 0.7278831720481627,
+        "middle": 0.3641935476731284,
+        "death": 0.6849480291803811,
+        "whole_innings": 0.5370156276470492
+      },
+      "sixes": {
+        "powerplay": 0.5972742931709683,
+        "middle": 0.2619968874136524,
+        "death": 0.4075652150834146,
+        "whole_innings": 0.3849029500532852
+      }
+    }
+  },
+  "wicket_cost_three_levels": {
+    "figure": "wicket_cost_three_levels",
+    "title": "No wicket cost, at three levels of accounting",
+    "caption": "Change 2024 minus 2023, zero the common null. Actual rate: match bootstrap. Expected rate: situation-only model, out-of-fold, refit interval. Per aggressive shot: residual regression under the match bootstrap; carries the shot-tag floor. Band: the SESOI (smallest effect size of interest) stated in advance for the expected rate, 0.3 wickets per powerplay.",
+    "narration": "The extra sixes cost nothing in wickets: not in the actual rate, not in the rate the situations predicted, not per aggressive shot.",
+    "numbers": {
+      "Actual wicket rate": {
+        "estimate": 0.15641467854747482,
+        "ci_low": -0.0825428763054504,
+        "ci_high": 0.40563020983041
+      },
+      "Expected, given the situations faced": {
+        "estimate": 0.0057717793161648,
+        "ci_low": -0.0185499289929744,
+        "ci_high": 0.0139228640094456
+      },
+      "Cost per aggressive shot": {
+        "estimate": 0.6463164661462,
+        "ci_low": -2.14229908153301,
+        "ci_high": 3.4893717185290005
+      }
+    }
+  },
+  "powerplay_ledger": {
+    "figure": "powerplay_ledger",
+    "title": "What the 2024 powerplay mix was worth, at 2023 prices",
+    "caption": "Each outcome priced as the mean change in the provided win probability on such balls; the change in each outcome's share of powerplay deliveries times its price, per 36-ball powerplay, match bootstrap intervals. Win probability is team-agnostic and weaker in first innings.",
+    "narration": "About four win-probability points per powerplay, almost all from sixes; the wicket cost was small and mostly luck.",
+    "numbers": {
+      "net": 3.8309547032570945,
+      "net_low": 0.2326916895086927,
+      "net_high": 7.592169299168715,
+      "six": 3.2002936612613317
+    }
+  },
+  "aggression_premium": {
+    "figure": "aggression_premium",
+    "title": "Diminishing returns: each aggressive shot bought half as much in 2024",
+    "caption": "Mean change in win probability on aggressive-shot balls minus other balls, powerplay, both innings, match bootstrap intervals.",
+    "narration": "Boundaries were priced lower as the league's baseline rose; the wicket cost per shot did not change. The approach paid through volume.",
+    "numbers": {
+      "2023": 0.9310547219770522,
+      "2024": 0.5223315629018247
+    }
+  },
+  "team_value_slope": {
+    "figure": "team_value_slope",
+    "title": "Who took the risk: three teams, and the order reversed",
+    "caption": "Value of the powerplay outcome mix per team-season, points per powerplay at pooled prices, means over about fourteen powerplays; read as tiers.",
+    "narration": "Sunrisers, Kolkata and Delhi attacked most and bought two to three times the value of the five teams that attacked least, paying a wicket cost no different from what their situations predicted.",
+    "numbers": {
+      "Chennai": {
+        "2023": 14.233668746775546,
+        "2024": 8.706923321782332
+      },
+      "Delhi": {
+        "2023": 3.5475899576420553,
+        "2024": 16.21051790681619
+      },
+      "Gujarat": {
+        "2023": 8.87296328754449,
+        "2024": 3.308074437048641
+      },
+      "Kolkata": {
+        "2023": 3.4324693502594563,
+        "2024": 19.962958445773864
+      },
+      "Lucknow": {
+        "2023": 3.3075257720609126,
+        "2024": 3.4139171923704743
+      },
+      "Mumbai": {
+        "2023": 11.115247875949995,
+        "2024": 9.810398104620967
+      },
+      "Punjab": {
+        "2023": 6.447587436976618,
+        "2024": 7.773961802304621
+      },
+      "Rajasthan": {
+        "2023": 10.878550762646697,
+        "2024": 8.63106556680836
+      },
+      "Bengaluru": {
+        "2023": 13.352684447649514,
+        "2024": 13.841829150150977
+      },
+      "Sunrisers": {
+        "2023": 2.6084065981538096,
+        "2024": 20.525869483566883
+      }
+    }
+  },
+  "line_length_grid": {
+    "figure": "line_length_grid",
+    "title": "Menu, not mix: every class of delivery was hit harder",
+    "caption": "Powerplay sixes per 100 legal balls by line and length; cell area is the class's share of deliveries; hatched cells are thin (under 300 balls). Line and length are hand-tagged, coverage the same in both seasons.",
+    "narration": "Bowlers went fuller and faster and it made no difference: 97% of the extra sixes came from every class being hit harder, 3% from the changed mix.",
+    "numbers": {
+      "within_share": 0.9700466591952608,
+      "mix_share": 0.0299533408047393,
+      "within": 0.0175016935014443,
+      "mix": 0.0005404216231657
+    }
+  },
+  "speed_bands": {
+    "figure": "speed_bands",
+    "title": "Pace was the target; the slower ball held, and was cut",
+    "caption": "Pace deliveries in the powerplay by tracked speed band, sixes per 100 legal balls, season change with match bootstrap intervals.",
+    "narration": "Balls over 140 went from the safest class to the most hit; balls under 130 held their six rate and took more wickets, and bowlers cut the slower ball from 14% to 5.5% of deliveries.",
+    "numbers": {
+      "over 140 kph": {
+        "2023": 3.11173974540311,
+        "2024": 6.989247311827949
+      },
+      "130 to 140": {
+        "2023": 4.24328147100424,
+        "2024": 5.9042113955408695
+      },
+      "under 130": {
+        "2023": 5.3012048192771,
+        "2024": 5.40037243947858
+      },
+      "slower_ball_share": {
+        "2023": 0.1409674981103552,
+        "2024": 0.0549687010954616
+      }
+    }
+  },
+  "spin_decomposition": {
+    "figure": "spin_decomposition",
+    "title": "Spin was picked less and benched more; squads and workload unchanged",
+    "caption": "Change in the spin share of legal balls, percentage points, attributed exactly to selection (spinners named per eleven), deployment (share of named spinners who bowled), workload (balls per spinner who bowled) and innings length, under the match bootstrap.",
+    "narration": "Teams kept and bought spinners as before, named a third of a spinner fewer per eleven and bowled fewer of the ones they named; the middle overs were a headcount story.",
+    "numbers": {
+      "totals": {
+        "whole innings": -8.033245368556818,
+        "powerplay": -6.1118030936944425,
+        "middle": -9.953881577963386,
+        "death": -7.26887805858189
+      }
+    }
+  },
+  "batter_decomposition": {
+    "figure": "batter_decomposition",
+    "title": "Half the rise was three openers; most of the other half was bought",
+    "caption": "Exact decomposition of the powerplay six-rate change over batters, match bootstrap intervals; entrants split by how they came to face the balls, from the auction tables.",
+    "narration": "Abhishek Sharma, Virat Kohli and David Warner carry more than the whole same-batters part; of the entrant effect, three quarters were bought or signed and a quarter promoted from within squads.",
+    "numbers": {
+      "league_change": 1.8020425153728699,
+      "within": 0.78786359652469,
+      "composition": 1.01417891884817,
+      "composition_continuing_reweight": 0.15190453550491,
+      "composition_entrants": 1.5576323987538898,
+      "composition_exits": -0.69535801541063,
+      "entrants_by_route": {
+        "bought": 0.81775700934579,
+        "not_in_auction_table": 0.40887850467289005,
+        "promoted_from_squad": 0.3309968847352
+      }
+    }
+  },
+  "chase_target": {
+    "figure": "chase_target",
+    "title": "Chasing sides went harder at every target, and decided it early",
+    "caption": "Change in the chasing run rate, 2024 minus 2023, raw and at a common target of 180 from a linear model with a season term, match bootstrap intervals; later phases on the chases that reached them.",
+    "narration": "The powerplay change survives at a common target, so it is a change of approach; in the middle overs the scoreboard, not the season, drives the rate. Batting first attacked less than chasing in both seasons.",
+    "numbers": {
+      "Powerplay, raw": {
+        "estimate": 1.1450254035629328,
+        "ci_low": 0.4155556627435838,
+        "ci_high": 1.8918949771689473
+      },
+      "Powerplay, at a common target": {
+        "estimate": 1.022685624356443,
+        "ci_low": 0.2521725951612045,
+        "ci_high": 1.785312066689079
+      },
+      "Middle overs, at a common target": {
+        "estimate": 0.3366110250771884,
+        "ci_low": -0.3051382213992715,
+        "ci_high": 0.9899153884431916
+      },
+      "Death, at a common target": {
+        "estimate": 0.65364237170768,
+        "ci_low": -0.4131726929414305,
+        "ci_high": 1.663957322830043
+      }
+    }
+  },
+  "substitute_numbers": {
+    "title": "The substitute: warm-up unchanged, twelfth batter new",
+    "caption": "Impact-substitute deployments in the first innings by which side made them, from Cricsheet match records; the substitute's own batting from the ball-by-ball.",
+    "narration": "Bowling-first sides warmed up the chase batter in both seasons; the 2024 change is batting-first sides adding a batter some 35 balls after a dismissal, who mostly did not bat.",
+    "numbers": {
+      "bowling_first_first_innings": {
+        "2023": 17,
+        "2024": 17
+      },
+      "batting_first_first_innings": {
+        "2023": 9,
+        "2024": 26
+      },
+      "substitute_contribution": {
+        "2023": {
+          "swaps": 9,
+          "sub_batted_share": 1.0,
+          "sub_strike_rate": 101.78571428571428,
+          "others_strike_rate": 111.6751269035533
+        },
+        "2024": {
+          "swaps": 26,
+          "sub_batted_share": 0.7692307692307693,
+          "sub_strike_rate": 112.5,
+          "others_strike_rate": 133.72781065088756
+        }
+      }
+    }
+  }
+}

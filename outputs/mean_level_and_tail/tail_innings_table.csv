@@ -1,0 +1,290 @@
+p_match,inns,year,team_bat,team_bowl,total,legal_balls,wickets,wickets_before_death,max_balls,target,census,all_out_before_death
+1359475,1,2023,Chennai Super Kings,Gujarat Titans,178,120,7,4,120,,first_innings,False
+1359475,2,2023,Gujarat Titans,Chennai Super Kings,182,116,5,4,120,179.0,successful_chase,False
+1359476,1,2023,Punjab Kings,Kolkata Knight Riders,191,120,5,4,120,,first_innings,False
+1359476,2,2023,Kolkata Knight Riders,Punjab Kings,146,96,7,6,96,192.0,dls_reduced,False
+1359477,1,2023,Lucknow Super Giants,Delhi Capitals,193,120,6,4,120,,first_innings,False
+1359477,2,2023,Delhi Capitals,Lucknow Super Giants,143,120,9,5,120,194.0,failed_chase,False
+1359478,1,2023,Rajasthan Royals,Sunrisers Hyderabad,203,120,5,3,120,,first_innings,False
+1359478,2,2023,Sunrisers Hyderabad,Rajasthan Royals,131,120,8,7,120,204.0,failed_chase,False
+1359479,1,2023,Mumbai Indians,Royal Challengers Bengaluru,171,120,7,5,120,,first_innings,False
+1359479,2,2023,Royal Challengers Bengaluru,Mumbai Indians,172,98,2,1,120,172.0,successful_chase,False
+1359480,1,2023,Chennai Super Kings,Lucknow Super Giants,217,120,7,3,120,,first_innings,False
+1359480,2,2023,Lucknow Super Giants,Chennai Super Kings,204,120,7,5,120,218.0,failed_chase,False
+1359481,1,2023,Delhi Capitals,Gujarat Titans,162,120,8,5,120,,first_innings,False
+1359481,2,2023,Gujarat Titans,Delhi Capitals,163,109,4,4,120,163.0,successful_chase,False
+1359482,1,2023,Punjab Kings,Rajasthan Royals,196,120,5,2,120,,first_innings,False
+1359482,2,2023,Rajasthan Royals,Punjab Kings,192,120,7,6,120,198.0,failed_chase,False
+1359483,1,2023,Kolkata Knight Riders,Royal Challengers Bengaluru,204,120,7,5,120,,first_innings,False
+1359483,2,2023,Royal Challengers Bengaluru,Kolkata Knight Riders,123,106,10,9,120,205.0,failed_chase,False
+1359484,1,2023,Sunrisers Hyderabad,Lucknow Super Giants,121,120,8,4,120,,first_innings,False
+1359484,2,2023,Lucknow Super Giants,Sunrisers Hyderabad,127,96,5,5,120,122.0,successful_chase,False
+1359485,1,2023,Rajasthan Royals,Delhi Capitals,199,120,4,3,120,,first_innings,False
+1359485,2,2023,Delhi Capitals,Rajasthan Royals,142,120,9,5,120,200.0,failed_chase,False
+1359486,1,2023,Mumbai Indians,Chennai Super Kings,157,120,8,6,120,,first_innings,False
+1359486,2,2023,Chennai Super Kings,Mumbai Indians,159,109,3,3,120,158.0,successful_chase,False
+1359487,1,2023,Gujarat Titans,Kolkata Knight Riders,204,120,4,3,120,,first_innings,False
+1359487,2,2023,Kolkata Knight Riders,Gujarat Titans,207,120,7,3,120,205.0,successful_chase,False
+1359488,1,2023,Punjab Kings,Sunrisers Hyderabad,143,120,9,9,120,,first_innings,False
+1359488,2,2023,Sunrisers Hyderabad,Punjab Kings,145,103,2,2,120,144.0,successful_chase,False
+1359489,1,2023,Royal Challengers Bengaluru,Lucknow Super Giants,212,120,2,1,120,,first_innings,False
+1359489,2,2023,Lucknow Super Giants,Royal Challengers Bengaluru,213,120,9,5,120,213.0,successful_chase,False
+1359490,1,2023,Delhi Capitals,Mumbai Indians,172,118,10,5,120,,first_innings,False
+1359490,2,2023,Mumbai Indians,Delhi Capitals,173,120,4,1,120,173.0,successful_chase,False
+1359491,1,2023,Rajasthan Royals,Chennai Super Kings,175,120,8,4,120,,first_innings,False
+1359491,2,2023,Chennai Super Kings,Rajasthan Royals,172,120,6,6,120,176.0,failed_chase,False
+1359492,1,2023,Punjab Kings,Gujarat Titans,153,120,8,4,120,,first_innings,False
+1359492,2,2023,Gujarat Titans,Punjab Kings,154,119,4,3,120,154.0,successful_chase,False
+1359493,1,2023,Sunrisers Hyderabad,Kolkata Knight Riders,228,120,4,3,120,,first_innings,False
+1359493,2,2023,Kolkata Knight Riders,Sunrisers Hyderabad,204,120,7,5,120,229.0,failed_chase,False
+1359494,1,2023,Royal Challengers Bengaluru,Delhi Capitals,174,120,6,6,120,,first_innings,False
+1359494,2,2023,Delhi Capitals,Royal Challengers Bengaluru,151,120,9,7,120,175.0,failed_chase,False
+1359495,1,2023,Lucknow Super Giants,Punjab Kings,155,120,8,4,120,,first_innings,False
+1359495,2,2023,Punjab Kings,Lucknow Super Giants,161,117,8,5,120,160.0,successful_chase,False
+1359496,1,2023,Kolkata Knight Riders,Mumbai Indians,185,120,6,4,120,,first_innings,False
+1359496,2,2023,Mumbai Indians,Kolkata Knight Riders,186,106,5,3,120,186.0,successful_chase,False
+1359497,1,2023,Gujarat Titans,Rajasthan Royals,177,120,7,3,120,,first_innings,False
+1359497,2,2023,Rajasthan Royals,Gujarat Titans,179,116,7,5,120,178.0,successful_chase,False
+1359498,1,2023,Chennai Super Kings,Royal Challengers Bengaluru,226,120,6,2,120,,first_innings,False
+1359498,2,2023,Royal Challengers Bengaluru,Chennai Super Kings,218,120,8,4,120,227.0,failed_chase,False
+1359499,1,2023,Mumbai Indians,Sunrisers Hyderabad,192,120,5,3,120,,first_innings,False
+1359499,2,2023,Sunrisers Hyderabad,Mumbai Indians,178,119,10,6,120,193.0,failed_chase,False
+1359500,1,2023,Lucknow Super Giants,Rajasthan Royals,154,120,7,4,120,,first_innings,False
+1359500,2,2023,Rajasthan Royals,Lucknow Super Giants,144,120,6,3,120,155.0,failed_chase,False
+1359501,1,2023,Royal Challengers Bengaluru,Punjab Kings,174,120,4,0,120,,first_innings,False
+1359501,2,2023,Punjab Kings,Royal Challengers Bengaluru,150,110,10,7,120,175.0,failed_chase,False
+1359502,1,2023,Kolkata Knight Riders,Delhi Capitals,127,120,10,8,120,,first_innings,False
+1359502,2,2023,Delhi Capitals,Kolkata Knight Riders,128,116,6,4,120,128.0,successful_chase,False
+1359503,1,2023,Sunrisers Hyderabad,Chennai Super Kings,134,120,7,5,120,,first_innings,False
+1359503,2,2023,Chennai Super Kings,Sunrisers Hyderabad,138,112,3,2,120,135.0,successful_chase,False
+1359504,1,2023,Gujarat Titans,Lucknow Super Giants,135,120,6,4,120,,first_innings,False
+1359504,2,2023,Lucknow Super Giants,Gujarat Titans,128,120,7,2,120,136.0,failed_chase,False
+1359505,1,2023,Punjab Kings,Mumbai Indians,214,120,8,4,120,,first_innings,False
+1359505,2,2023,Mumbai Indians,Punjab Kings,201,120,6,2,120,215.0,failed_chase,False
+1359506,1,2023,Royal Challengers Bengaluru,Rajasthan Royals,189,120,9,4,120,,first_innings,False
+1359506,2,2023,Rajasthan Royals,Royal Challengers Bengaluru,182,120,6,3,120,190.0,failed_chase,False
+1359507,1,2023,Chennai Super Kings,Kolkata Knight Riders,235,120,4,2,120,,first_innings,False
+1359507,2,2023,Kolkata Knight Riders,Chennai Super Kings,186,120,8,5,120,236.0,failed_chase,False
+1359508,1,2023,Delhi Capitals,Sunrisers Hyderabad,144,120,9,5,120,,first_innings,False
+1359508,2,2023,Sunrisers Hyderabad,Delhi Capitals,137,120,6,5,120,145.0,failed_chase,False
+1359509,1,2023,Gujarat Titans,Mumbai Indians,207,120,6,4,120,,first_innings,False
+1359509,2,2023,Mumbai Indians,Gujarat Titans,152,120,9,6,120,208.0,failed_chase,False
+1359510,1,2023,Kolkata Knight Riders,Royal Challengers Bengaluru,200,120,5,2,120,,first_innings,False
+1359510,2,2023,Royal Challengers Bengaluru,Kolkata Knight Riders,179,120,8,6,120,201.0,failed_chase,False
+1359511,1,2023,Rajasthan Royals,Chennai Super Kings,202,120,5,3,120,,first_innings,False
+1359511,2,2023,Chennai Super Kings,Rajasthan Royals,170,120,6,5,120,203.0,failed_chase,False
+1359512,1,2023,Lucknow Super Giants,Punjab Kings,256,120,5,3,120,,first_innings,False
+1359512,2,2023,Punjab Kings,Lucknow Super Giants,201,119,10,4,120,258.0,failed_chase,False
+1359513,1,2023,Kolkata Knight Riders,Gujarat Titans,179,120,7,4,120,,first_innings,False
+1359513,2,2023,Gujarat Titans,Kolkata Knight Riders,180,107,3,3,120,180.0,successful_chase,False
+1359514,1,2023,Sunrisers Hyderabad,Delhi Capitals,197,120,6,5,120,,first_innings,False
+1359514,2,2023,Delhi Capitals,Sunrisers Hyderabad,188,120,6,4,120,198.0,failed_chase,False
+1359515,1,2023,Chennai Super Kings,Punjab Kings,200,120,4,2,120,,first_innings,False
+1359515,2,2023,Punjab Kings,Chennai Super Kings,201,120,6,3,120,201.0,successful_chase,False
+1359516,1,2023,Rajasthan Royals,Mumbai Indians,212,120,7,4,120,,first_innings,False
+1359516,2,2023,Mumbai Indians,Rajasthan Royals,214,117,4,3,120,213.0,successful_chase,False
+1359517,1,2023,Royal Challengers Bengaluru,Lucknow Super Giants,126,120,9,4,120,,first_innings,False
+1359517,2,2023,Lucknow Super Giants,Royal Challengers Bengaluru,108,119,10,8,120,127.0,failed_chase,False
+1359518,1,2023,Delhi Capitals,Gujarat Titans,130,120,8,6,120,,first_innings,False
+1359518,2,2023,Gujarat Titans,Delhi Capitals,125,120,6,4,120,131.0,failed_chase,False
+1359519,1,2023,Lucknow Super Giants,Chennai Super Kings,125,117,7,5,120,,first_innings,False
+1359520,1,2023,Punjab Kings,Mumbai Indians,214,120,3,3,120,,first_innings,False
+1359520,2,2023,Mumbai Indians,Punjab Kings,216,113,4,2,120,215.0,successful_chase,False
+1359521,1,2023,Kolkata Knight Riders,Sunrisers Hyderabad,171,120,9,5,120,,first_innings,False
+1359521,2,2023,Sunrisers Hyderabad,Kolkata Knight Riders,166,120,8,5,120,172.0,failed_chase,False
+1359522,1,2023,Rajasthan Royals,Gujarat Titans,118,107,10,8,120,,first_innings,False
+1359522,2,2023,Gujarat Titans,Rajasthan Royals,119,83,1,1,120,119.0,successful_chase,False
+1359523,1,2023,Mumbai Indians,Chennai Super Kings,139,120,8,4,120,,first_innings,False
+1359523,2,2023,Chennai Super Kings,Mumbai Indians,140,106,4,3,120,140.0,successful_chase,False
+1359524,1,2023,Royal Challengers Bengaluru,Delhi Capitals,181,120,4,2,120,,first_innings,False
+1359524,2,2023,Delhi Capitals,Royal Challengers Bengaluru,187,100,3,2,120,182.0,successful_chase,False
+1359525,1,2023,Gujarat Titans,Lucknow Super Giants,227,120,2,1,120,,first_innings,False
+1359525,2,2023,Lucknow Super Giants,Gujarat Titans,171,120,7,3,120,228.0,failed_chase,False
+1359526,1,2023,Rajasthan Royals,Sunrisers Hyderabad,214,120,2,1,120,,first_innings,False
+1359526,2,2023,Sunrisers Hyderabad,Rajasthan Royals,217,120,6,2,120,215.0,successful_chase,False
+1359527,1,2023,Punjab Kings,Kolkata Knight Riders,179,120,7,5,120,,first_innings,False
+1359527,2,2023,Kolkata Knight Riders,Punjab Kings,182,120,5,3,120,180.0,successful_chase,False
+1359528,1,2023,Royal Challengers Bengaluru,Mumbai Indians,199,120,6,5,120,,first_innings,False
+1359528,2,2023,Mumbai Indians,Royal Challengers Bengaluru,196,99,4,2,120,200.0,failed_chase,False
+1359529,1,2023,Chennai Super Kings,Delhi Capitals,167,120,8,5,120,,first_innings,False
+1359529,2,2023,Delhi Capitals,Chennai Super Kings,140,120,8,5,120,168.0,failed_chase,False
+1359530,1,2023,Kolkata Knight Riders,Rajasthan Royals,149,120,8,4,120,,first_innings,False
+1359530,2,2023,Rajasthan Royals,Kolkata Knight Riders,151,79,1,1,120,150.0,successful_chase,False
+1359531,1,2023,Mumbai Indians,Gujarat Titans,218,120,5,3,120,,first_innings,False
+1359531,2,2023,Gujarat Titans,Mumbai Indians,191,120,8,8,120,219.0,failed_chase,False
+1359532,1,2023,Sunrisers Hyderabad,Lucknow Super Giants,182,120,6,5,120,,first_innings,False
+1359532,2,2023,Lucknow Super Giants,Sunrisers Hyderabad,185,116,3,2,120,183.0,successful_chase,False
+1359533,1,2023,Punjab Kings,Delhi Capitals,167,120,7,4,120,,first_innings,False
+1359533,2,2023,Delhi Capitals,Punjab Kings,136,120,8,6,120,168.0,failed_chase,False
+1359534,1,2023,Royal Challengers Bengaluru,Rajasthan Royals,171,120,5,2,120,,first_innings,False
+1359534,2,2023,Rajasthan Royals,Royal Challengers Bengaluru,59,63,10,10,120,172.0,failed_chase,True
+1359535,1,2023,Chennai Super Kings,Kolkata Knight Riders,144,120,6,5,120,,first_innings,False
+1359535,2,2023,Kolkata Knight Riders,Chennai Super Kings,147,111,4,3,120,145.0,successful_chase,False
+1359536,1,2023,Gujarat Titans,Sunrisers Hyderabad,188,120,9,2,120,,first_innings,False
+1359536,2,2023,Sunrisers Hyderabad,Gujarat Titans,154,120,9,7,120,189.0,failed_chase,False
+1359537,1,2023,Lucknow Super Giants,Mumbai Indians,177,120,4,3,120,,first_innings,False
+1359537,2,2023,Mumbai Indians,Lucknow Super Giants,168,120,5,3,120,178.0,failed_chase,False
+1359538,1,2023,Delhi Capitals,Punjab Kings,213,120,2,2,120,,first_innings,False
+1359538,2,2023,Punjab Kings,Delhi Capitals,198,120,8,3,120,214.0,failed_chase,False
+1359539,1,2023,Sunrisers Hyderabad,Royal Challengers Bengaluru,186,120,5,3,120,,first_innings,False
+1359539,2,2023,Royal Challengers Bengaluru,Sunrisers Hyderabad,187,116,2,0,120,187.0,successful_chase,False
+1359540,1,2023,Punjab Kings,Rajasthan Royals,187,120,5,5,120,,first_innings,False
+1359540,2,2023,Rajasthan Royals,Punjab Kings,189,118,6,4,120,188.0,successful_chase,False
+1359541,1,2023,Chennai Super Kings,Delhi Capitals,223,120,3,1,120,,first_innings,False
+1359541,2,2023,Delhi Capitals,Chennai Super Kings,146,120,9,5,120,224.0,failed_chase,False
+1359542,1,2023,Lucknow Super Giants,Kolkata Knight Riders,176,120,8,5,120,,first_innings,False
+1359542,2,2023,Kolkata Knight Riders,Lucknow Super Giants,175,120,7,4,120,177.0,failed_chase,False
+1359543,1,2023,Sunrisers Hyderabad,Mumbai Indians,200,120,5,1,120,,first_innings,False
+1359543,2,2023,Mumbai Indians,Sunrisers Hyderabad,201,108,2,2,120,201.0,successful_chase,False
+1359544,1,2023,Royal Challengers Bengaluru,Gujarat Titans,197,120,5,5,120,,first_innings,False
+1359544,2,2023,Gujarat Titans,Royal Challengers Bengaluru,198,115,4,2,120,198.0,successful_chase,False
+1370350,1,2023,Chennai Super Kings,Gujarat Titans,171,120,7,3,120,,first_innings,False
+1370350,2,2023,Gujarat Titans,Chennai Super Kings,157,120,10,6,120,173.0,failed_chase,False
+1370351,1,2023,Mumbai Indians,Lucknow Super Giants,182,120,8,4,120,,first_innings,False
+1370351,2,2023,Lucknow Super Giants,Mumbai Indians,101,99,10,9,120,183.0,failed_chase,False
+1370352,1,2023,Gujarat Titans,Mumbai Indians,233,120,3,1,120,,first_innings,False
+1370352,2,2023,Mumbai Indians,Gujarat Titans,171,110,10,6,120,234.0,failed_chase,False
+1370353,1,2023,Gujarat Titans,Chennai Super Kings,214,120,4,2,120,,first_innings,False
+1370353,2,2023,Chennai Super Kings,Gujarat Titans,171,90,5,5,90,171.0,dls_reduced,False
+1422119,1,2024,Royal Challengers Bengaluru,Chennai Super Kings,173,120,6,5,120,,first_innings,False
+1422119,2,2024,Chennai Super Kings,Royal Challengers Bengaluru,176,112,4,4,120,174.0,successful_chase,False
+1422120,1,2024,Delhi Capitals,Punjab Kings,174,120,9,5,120,,first_innings,False
+1422120,2,2024,Punjab Kings,Delhi Capitals,177,116,6,4,120,175.0,successful_chase,False
+1422121,1,2024,Kolkata Knight Riders,Sunrisers Hyderabad,208,120,7,6,120,,first_innings,False
+1422121,2,2024,Sunrisers Hyderabad,Kolkata Knight Riders,204,120,7,4,120,209.0,failed_chase,False
+1422122,1,2024,Rajasthan Royals,Lucknow Super Giants,193,120,4,3,120,,first_innings,False
+1422122,2,2024,Lucknow Super Giants,Rajasthan Royals,173,120,6,4,120,194.0,failed_chase,False
+1422123,1,2024,Gujarat Titans,Mumbai Indians,168,120,6,3,120,,first_innings,False
+1422123,2,2024,Mumbai Indians,Gujarat Titans,162,120,9,3,120,169.0,failed_chase,False
+1422124,1,2024,Punjab Kings,Royal Challengers Bengaluru,176,120,6,4,120,,first_innings,False
+1422124,2,2024,Royal Challengers Bengaluru,Punjab Kings,178,116,6,4,120,177.0,successful_chase,False
+1422125,1,2024,Chennai Super Kings,Gujarat Titans,206,120,6,3,120,,first_innings,False
+1422125,2,2024,Gujarat Titans,Chennai Super Kings,143,120,8,5,120,207.0,failed_chase,False
+1422126,1,2024,Sunrisers Hyderabad,Mumbai Indians,277,120,3,3,120,,first_innings,False
+1422126,2,2024,Mumbai Indians,Sunrisers Hyderabad,246,120,5,4,120,278.0,failed_chase,False
+1422127,1,2024,Rajasthan Royals,Delhi Capitals,185,120,5,4,120,,first_innings,False
+1422127,2,2024,Delhi Capitals,Rajasthan Royals,173,120,5,4,120,186.0,failed_chase,False
+1422128,1,2024,Royal Challengers Bengaluru,Kolkata Knight Riders,182,120,6,3,120,,first_innings,False
+1422128,2,2024,Kolkata Knight Riders,Royal Challengers Bengaluru,186,101,3,2,120,183.0,successful_chase,False
+1422129,1,2024,Lucknow Super Giants,Punjab Kings,199,120,8,4,120,,first_innings,False
+1422129,2,2024,Punjab Kings,Lucknow Super Giants,178,120,5,2,120,200.0,failed_chase,False
+1422130,1,2024,Sunrisers Hyderabad,Gujarat Titans,162,120,8,5,120,,first_innings,False
+1422130,2,2024,Gujarat Titans,Sunrisers Hyderabad,168,115,3,2,120,163.0,successful_chase,False
+1422131,1,2024,Delhi Capitals,Chennai Super Kings,190,120,5,4,120,,first_innings,False
+1422131,2,2024,Chennai Super Kings,Delhi Capitals,171,120,6,5,120,192.0,failed_chase,False
+1422132,1,2024,Mumbai Indians,Rajasthan Royals,125,120,9,7,120,,first_innings,False
+1422132,2,2024,Rajasthan Royals,Mumbai Indians,127,93,4,4,120,126.0,successful_chase,False
+1422133,1,2024,Lucknow Super Giants,Royal Challengers Bengaluru,181,120,5,3,120,,first_innings,False
+1422133,2,2024,Royal Challengers Bengaluru,Lucknow Super Giants,153,118,10,6,120,182.0,failed_chase,False
+1422134,1,2024,Kolkata Knight Riders,Delhi Capitals,272,120,7,3,120,,first_innings,False
+1422134,2,2024,Delhi Capitals,Kolkata Knight Riders,162,104,10,7,120,273.0,failed_chase,False
+1422135,1,2024,Gujarat Titans,Punjab Kings,199,120,4,3,120,,first_innings,False
+1422135,2,2024,Punjab Kings,Gujarat Titans,200,119,7,5,120,200.0,successful_chase,False
+1422136,1,2024,Chennai Super Kings,Sunrisers Hyderabad,165,120,5,4,120,,first_innings,False
+1422136,2,2024,Sunrisers Hyderabad,Chennai Super Kings,166,109,4,3,120,166.0,successful_chase,False
+1422137,1,2024,Royal Challengers Bengaluru,Rajasthan Royals,183,120,3,2,120,,first_innings,False
+1422137,2,2024,Rajasthan Royals,Royal Challengers Bengaluru,189,115,4,2,120,184.0,successful_chase,False
+1422138,1,2024,Mumbai Indians,Delhi Capitals,234,120,5,4,120,,first_innings,False
+1422138,2,2024,Delhi Capitals,Mumbai Indians,205,120,8,3,120,235.0,failed_chase,False
+1422139,1,2024,Lucknow Super Giants,Gujarat Titans,163,120,5,4,120,,first_innings,False
+1422139,2,2024,Gujarat Titans,Lucknow Super Giants,129,113,10,7,120,164.0,failed_chase,False
+1426260,1,2024,Kolkata Knight Riders,Chennai Super Kings,137,120,9,5,120,,first_innings,False
+1426260,2,2024,Chennai Super Kings,Kolkata Knight Riders,141,106,3,2,120,138.0,successful_chase,False
+1426261,1,2024,Sunrisers Hyderabad,Punjab Kings,182,120,9,5,120,,first_innings,False
+1426261,2,2024,Punjab Kings,Sunrisers Hyderabad,180,120,6,5,120,183.0,failed_chase,False
+1426262,1,2024,Rajasthan Royals,Gujarat Titans,196,120,3,2,120,,first_innings,False
+1426262,2,2024,Gujarat Titans,Rajasthan Royals,199,120,7,4,120,197.0,successful_chase,False
+1426263,1,2024,Royal Challengers Bengaluru,Mumbai Indians,196,120,8,4,120,,first_innings,False
+1426263,2,2024,Mumbai Indians,Royal Challengers Bengaluru,199,93,3,3,120,197.0,successful_chase,False
+1426264,1,2024,Lucknow Super Giants,Delhi Capitals,167,120,7,7,120,,first_innings,False
+1426264,2,2024,Delhi Capitals,Lucknow Super Giants,170,109,4,3,120,168.0,successful_chase,False
+1426265,1,2024,Punjab Kings,Rajasthan Royals,147,120,8,5,120,,first_innings,False
+1426265,2,2024,Rajasthan Royals,Punjab Kings,152,119,7,3,120,148.0,successful_chase,False
+1426266,1,2024,Lucknow Super Giants,Kolkata Knight Riders,161,120,7,5,120,,first_innings,False
+1426266,2,2024,Kolkata Knight Riders,Lucknow Super Giants,162,94,2,2,120,162.0,successful_chase,False
+1426267,1,2024,Chennai Super Kings,Mumbai Indians,206,120,4,2,120,,first_innings,False
+1426267,2,2024,Mumbai Indians,Chennai Super Kings,186,120,6,3,120,207.0,failed_chase,False
+1426268,1,2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,287,120,3,2,120,,first_innings,False
+1426268,2,2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,262,120,7,6,120,288.0,failed_chase,False
+1426269,1,2024,Kolkata Knight Riders,Rajasthan Royals,223,120,6,3,120,,first_innings,False
+1426269,2,2024,Rajasthan Royals,Kolkata Knight Riders,224,120,8,6,120,224.0,successful_chase,False
+1426270,1,2024,Gujarat Titans,Delhi Capitals,89,105,10,8,120,,first_innings,False
+1426270,2,2024,Delhi Capitals,Gujarat Titans,92,53,4,4,120,90.0,successful_chase,False
+1426271,1,2024,Mumbai Indians,Punjab Kings,192,120,7,2,120,,first_innings,False
+1426271,2,2024,Punjab Kings,Mumbai Indians,183,115,10,7,120,193.0,failed_chase,False
+1426272,1,2024,Chennai Super Kings,Lucknow Super Giants,176,120,6,5,120,,first_innings,False
+1426272,2,2024,Lucknow Super Giants,Chennai Super Kings,180,114,2,1,120,177.0,successful_chase,False
+1426273,1,2024,Sunrisers Hyderabad,Delhi Capitals,266,120,7,4,120,,first_innings,False
+1426273,2,2024,Delhi Capitals,Sunrisers Hyderabad,199,115,10,6,120,267.0,failed_chase,False
+1426274,1,2024,Kolkata Knight Riders,Royal Challengers Bengaluru,218,120,6,5,120,,first_innings,False
+1426274,2,2024,Royal Challengers Bengaluru,Kolkata Knight Riders,221,120,10,6,120,223.0,failed_chase,False
+1426275,1,2024,Punjab Kings,Gujarat Titans,142,120,10,6,120,,first_innings,False
+1426275,2,2024,Gujarat Titans,Punjab Kings,146,115,7,4,120,143.0,successful_chase,False
+1426276,1,2024,Mumbai Indians,Rajasthan Royals,179,120,9,4,120,,first_innings,False
+1426276,2,2024,Rajasthan Royals,Mumbai Indians,183,112,1,1,120,180.0,successful_chase,False
+1426277,1,2024,Chennai Super Kings,Lucknow Super Giants,210,120,4,3,120,,first_innings,False
+1426277,2,2024,Lucknow Super Giants,Chennai Super Kings,213,117,4,3,120,211.0,successful_chase,False
+1426278,1,2024,Delhi Capitals,Gujarat Titans,224,120,4,3,120,,first_innings,False
+1426278,2,2024,Gujarat Titans,Delhi Capitals,220,120,8,5,120,225.0,failed_chase,False
+1426279,1,2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,206,120,7,4,120,,first_innings,False
+1426279,2,2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,171,120,8,7,120,207.0,failed_chase,False
+1426280,1,2024,Kolkata Knight Riders,Punjab Kings,261,120,6,2,120,,first_innings,False
+1426280,2,2024,Punjab Kings,Kolkata Knight Riders,262,112,2,2,120,262.0,successful_chase,False
+1426281,1,2024,Delhi Capitals,Mumbai Indians,257,120,4,3,120,,first_innings,False
+1426281,2,2024,Mumbai Indians,Delhi Capitals,247,120,9,5,120,258.0,failed_chase,False
+1426282,1,2024,Lucknow Super Giants,Rajasthan Royals,196,120,5,3,120,,first_innings,False
+1426282,2,2024,Rajasthan Royals,Lucknow Super Giants,199,114,3,3,120,197.0,successful_chase,False
+1426283,1,2024,Gujarat Titans,Royal Challengers Bengaluru,200,120,3,3,120,,first_innings,False
+1426283,2,2024,Royal Challengers Bengaluru,Gujarat Titans,206,96,1,1,120,201.0,successful_chase,False
+1426284,1,2024,Chennai Super Kings,Sunrisers Hyderabad,212,120,3,2,120,,first_innings,False
+1426284,2,2024,Sunrisers Hyderabad,Chennai Super Kings,134,113,10,5,120,213.0,failed_chase,False
+1426285,1,2024,Delhi Capitals,Kolkata Knight Riders,153,120,9,8,120,,first_innings,False
+1426285,2,2024,Kolkata Knight Riders,Delhi Capitals,156,99,3,3,120,154.0,successful_chase,False
+1426286,1,2024,Mumbai Indians,Lucknow Super Giants,144,120,7,5,120,,first_innings,False
+1426286,2,2024,Lucknow Super Giants,Mumbai Indians,145,116,6,4,120,145.0,successful_chase,False
+1426287,1,2024,Chennai Super Kings,Punjab Kings,162,120,7,3,120,,first_innings,False
+1426287,2,2024,Punjab Kings,Chennai Super Kings,163,107,3,3,120,163.0,successful_chase,False
+1426288,1,2024,Sunrisers Hyderabad,Rajasthan Royals,201,120,3,3,120,,first_innings,False
+1426288,2,2024,Rajasthan Royals,Sunrisers Hyderabad,200,120,7,3,120,202.0,failed_chase,False
+1426289,1,2024,Kolkata Knight Riders,Mumbai Indians,169,119,10,5,120,,first_innings,False
+1426289,2,2024,Mumbai Indians,Kolkata Knight Riders,145,113,10,6,120,170.0,failed_chase,False
+1426290,1,2024,Gujarat Titans,Royal Challengers Bengaluru,147,117,10,5,120,,first_innings,False
+1426290,2,2024,Royal Challengers Bengaluru,Gujarat Titans,152,82,6,6,120,148.0,successful_chase,False
+1426291,1,2024,Chennai Super Kings,Punjab Kings,167,120,9,5,120,,first_innings,False
+1426291,2,2024,Punjab Kings,Chennai Super Kings,139,120,9,8,120,168.0,failed_chase,False
+1426292,1,2024,Kolkata Knight Riders,Lucknow Super Giants,235,120,6,3,120,,first_innings,False
+1426292,2,2024,Lucknow Super Giants,Kolkata Knight Riders,137,97,10,8,120,236.0,failed_chase,False
+1426293,1,2024,Sunrisers Hyderabad,Mumbai Indians,173,120,8,5,120,,first_innings,False
+1426293,2,2024,Mumbai Indians,Sunrisers Hyderabad,174,104,3,3,120,174.0,successful_chase,False
+1426294,1,2024,Delhi Capitals,Rajasthan Royals,221,120,8,5,120,,first_innings,False
+1426294,2,2024,Rajasthan Royals,Delhi Capitals,201,120,8,3,120,222.0,failed_chase,False
+1426295,1,2024,Lucknow Super Giants,Sunrisers Hyderabad,165,120,4,4,120,,first_innings,False
+1426295,2,2024,Sunrisers Hyderabad,Lucknow Super Giants,167,58,0,0,120,166.0,successful_chase,False
+1426296,1,2024,Royal Challengers Bengaluru,Punjab Kings,241,120,7,3,120,,first_innings,False
+1426296,2,2024,Punjab Kings,Royal Challengers Bengaluru,181,102,10,7,120,242.0,failed_chase,False
+1426297,1,2024,Gujarat Titans,Chennai Super Kings,231,120,3,0,120,,first_innings,False
+1426297,2,2024,Chennai Super Kings,Gujarat Titans,196,120,8,5,120,232.0,failed_chase,False
+1426298,1,2024,Kolkata Knight Riders,Mumbai Indians,157,96,7,6,96,,dls_reduced,False
+1426298,2,2024,Mumbai Indians,Kolkata Knight Riders,135,96,8,6,96,159.0,dls_reduced,False
+1426299,1,2024,Rajasthan Royals,Chennai Super Kings,141,120,5,3,120,,first_innings,False
+1426299,2,2024,Chennai Super Kings,Rajasthan Royals,145,110,5,4,120,142.0,successful_chase,False
+1426300,1,2024,Royal Challengers Bengaluru,Delhi Capitals,187,120,9,4,120,,first_innings,False
+1426300,2,2024,Delhi Capitals,Royal Challengers Bengaluru,140,115,10,7,120,188.0,failed_chase,False
+1426302,1,2024,Delhi Capitals,Lucknow Super Giants,208,120,4,3,120,,first_innings,False
+1426302,2,2024,Lucknow Super Giants,Delhi Capitals,189,120,9,7,120,209.0,failed_chase,False
+1426303,1,2024,Rajasthan Royals,Punjab Kings,144,120,9,6,120,,first_innings,False
+1426303,2,2024,Punjab Kings,Rajasthan Royals,145,113,5,4,120,145.0,successful_chase,False
+1426305,1,2024,Lucknow Super Giants,Mumbai Indians,214,120,6,3,120,,first_innings,False
+1426305,2,2024,Mumbai Indians,Lucknow Super Giants,196,120,6,5,120,215.0,failed_chase,False
+1426306,1,2024,Royal Challengers Bengaluru,Chennai Super Kings,218,120,5,2,120,,first_innings,False
+1426306,2,2024,Chennai Super Kings,Royal Challengers Bengaluru,191,120,7,6,120,219.0,failed_chase,False
+1426307,1,2024,Punjab Kings,Sunrisers Hyderabad,214,120,5,2,120,,first_innings,False
+1426307,2,2024,Sunrisers Hyderabad,Punjab Kings,215,115,6,4,120,215.0,successful_chase,False
+1426309,1,2024,Sunrisers Hyderabad,Kolkata Knight Riders,159,117,10,8,120,,first_innings,False
+1426309,2,2024,Kolkata Knight Riders,Sunrisers Hyderabad,164,82,2,2,120,160.0,successful_chase,False
+1426310,1,2024,Royal Challengers Bengaluru,Rajasthan Royals,172,120,8,5,120,,first_innings,False
+1426310,2,2024,Rajasthan Royals,Royal Challengers Bengaluru,174,114,6,4,120,173.0,successful_chase,False
+1426311,1,2024,Sunrisers Hyderabad,Rajasthan Royals,175,120,9,6,120,,first_innings,False
+1426311,2,2024,Rajasthan Royals,Sunrisers Hyderabad,139,120,7,6,120,176.0,failed_chase,False
+1426312,1,2024,Sunrisers Hyderabad,Kolkata Knight Riders,113,111,10,8,120,,first_innings,False
+1426312,2,2024,Kolkata Knight Riders,Sunrisers Hyderabad,114,63,2,2,120,114.0,successful_chase,False

@@ -1,0 +1,13 @@
+phase,kind3,year,legal_balls,economy,boundary_pct,wicket_rate
+powerplay,pace,2023,4187.0,8.488,0.228,0.041
+powerplay,pace,2024,4326.0,9.219,0.253,0.046
+powerplay,spin,2023,1063.0,8.613,0.22,0.039
+powerplay,spin,2024,714.0,9.63,0.234,0.036
+middle,pace,2023,2683.0,9.057,0.184,0.047
+middle,pace,2024,3312.0,9.342,0.195,0.053
+middle,spin,2023,5126.0,7.921,0.141,0.047
+middle,spin,2024,4130.0,8.247,0.146,0.042
+death,pace,2023,3033.0,10.752,0.236,0.087
+death,pace,2024,3059.0,11.055,0.247,0.085
+death,spin,2023,897.0,8.776,0.165,0.072
+death,spin,2024,560.0,11.014,0.23,0.061

@@ -1,0 +1,608 @@
+season,player_name,type,country,status,base_price_cr,final_price_cr,team_code,team,in_squad,player_id,match_method
+2023,Ajinkya Rahane,Batter,India,Sold,0.5,0.5,CSK,Chennai Super Kings,True,277916,exact
+2023,Ambati Rayudu,WK-Batter,India,Retained,,6.75,CSK,Chennai Super Kings,True,33141,exact
+2023,Ben Stokes,Allrounder,,Sold,2.0,16.25,CSK,Chennai Super Kings,True,311158,exact
+2023,Deepak Chahar,Bowler,India,Retained,,14.0,CSK,Chennai Super Kings,True,447261,exact
+2023,Devon Conway,Batter,New Zealand,Retained,,1.0,CSK,Chennai Super Kings,True,379140,exact
+2023,Dwaine Pretorius,Allrounder,South Africa,Retained,,0.5,CSK,Chennai Super Kings,True,327830,exact
+2023,MS Dhoni,WK-Batter,India,Retained,,12.0,CSK,Chennai Super Kings,True,28081,exact
+2023,Maheesh Theekshana,Bowler,Sri Lanka,Retained,,0.7,CSK,Chennai Super Kings,True,1138316,exact
+2023,Matheesha Pathirana,Bowler,Sri Lanka,Retained,,0.2,CSK,Chennai Super Kings,True,1194795,exact
+2023,Mitchell Santner,Allrounder,New Zealand,Retained,,1.9,CSK,Chennai Super Kings,True,502714,exact
+2023,Moeen Ali,Allrounder,England,Retained,,8.0,CSK,Chennai Super Kings,True,8917,exact
+2023,Mukesh Choudhary,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,1125688,exact
+2023,Rajvardhan Hangargekar,Bowler,India,Retained,,1.5,CSK,Chennai Super Kings,True,1175429,exact
+2023,Ravindra Jadeja,Allrounder,India,Retained,,16.0,CSK,Chennai Super Kings,True,234675,exact
+2023,Ruturaj Gaikwad,Batter,India,Retained,,6.0,CSK,Chennai Super Kings,True,1060380,exact
+2023,Shivam Dube,Allrounder,India,Retained,,4.0,CSK,Chennai Super Kings,True,714451,exact
+2023,Simarjeet Singh,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,1159722,exact
+2023,Tushar Deshpande,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,822553,exact
+2023,Aman Hakim Khan,Bowler,India,Traded,,0.2,DC,Delhi Capitals,True,1254269,exact
+2023,Anrich Nortje,Bowler,South Africa,Retained,,6.5,DC,Delhi Capitals,True,481979,exact
+2023,Axar Patel,Allrounder,India,Retained,,9.0,DC,Delhi Capitals,True,554691,exact
+2023,Chetan Sakariya,Bowler,India,Retained,,4.2,DC,Delhi Capitals,True,1131754,exact
+2023,David Warner,Batter,Australia,Retained,,6.25,DC,Delhi Capitals,True,219889,exact
+2023,Ishant Sharma,Bowler,India,Sold,0.5,0.5,DC,Delhi Capitals,True,236779,exact
+2023,Khaleel Ahmed,Bowler,India,Retained,,5.25,DC,Delhi Capitals,True,942645,exact
+2023,Kuldeep Yadav,Bowler,India,Retained,,2.0,DC,Delhi Capitals,True,559235,exact
+2023,Lalit Yadav,Allrounder,India,Retained,,0.65,DC,Delhi Capitals,True,930189,exact
+2023,Manish Pandey,Batter,India,Sold,1.0,2.4,DC,Delhi Capitals,True,290630,exact
+2023,Mitchell Marsh,Allrounder,Australia,Retained,,6.5,DC,Delhi Capitals,True,272450,exact
+2023,Mukesh Kumar,Bowler,India,Sold,0.2,5.5,DC,Delhi Capitals,True,926851,exact
+2023,Mustafizur Rahman,Bowler,Bangladesh,Retained,,2.0,DC,Delhi Capitals,True,330902,exact
+2023,Praveen Dubey,Bowler,India,Retained,,0.5,DC,Delhi Capitals,True,777515,exact
+2023,Prithvi Shaw,Batter,India,Retained,,7.5,DC,Delhi Capitals,True,1070168,exact
+2023,Rilee Rossouw,Batter,South Africa,Sold,2.0,4.6,DC,Delhi Capitals,True,318845,exact
+2023,Ripal Patel,Allrounder,India,Retained,,0.2,DC,Delhi Capitals,True,1201520,exact
+2023,Rishabh Pant,WK-Batter,India,Retained,,16.0,DC,Delhi Capitals,True,931581,exact
+2023,Rovman Powell,Batter,West Indies,Retained,,2.8,DC,Delhi Capitals,True,820351,exact
+2023,Sarfaraz Khan,Batter,India,Retained,,0.2,DC,Delhi Capitals,True,642525,exact
+2023,Yash Dhull,Batter,India,Retained,,0.5,DC,Delhi Capitals,True,1292498,exact
+2023,Alzarri Joseph,Bowler,West Indies,Retained,,2.4,GT,Gujarat Titans,True,670031,exact
+2023,Darshan Nalkande,Bowler,India,Retained,,0.2,GT,Gujarat Titans,True,1111917,exact
+2023,David Miller,Batter,South Africa,Retained,,3.0,GT,Gujarat Titans,True,321777,exact
+2023,Hardik Pandya,Allrounder,India,Retained,,15.0,GT,Gujarat Titans,True,625371,exact
+2023,Jayant Yadav,Allrounder,India,Retained,,1.7,GT,Gujarat Titans,True,447587,exact
+2023,Joshua Little,Bowler,Ireland,Sold,0.5,4.4,GT,Gujarat Titans,True,928067,exact
+2023,Kane Williamson,Batter,New Zealand,Sold,2.0,2.0,GT,Gujarat Titans,True,277906,exact
+2023,Matthew Wade,WK-Batter,Australia,Retained,,2.4,GT,Gujarat Titans,True,230193,exact
+2023,Mohammed Shami,Bowler,India,Retained,,6.25,GT,Gujarat Titans,True,481896,exact
+2023,Mohit Sharma,Bowler,India,Sold,0.5,0.5,GT,Gujarat Titans,True,537119,exact
+2023,Noor Ahmad,Bowler,Afghanistan,Retained,,0.3,GT,Gujarat Titans,True,1182529,exact
+2023,Rahul Tewatia,Allrounder,India,Retained,,9.0,GT,Gujarat Titans,True,423838,exact
+2023,Rashid Khan,Bowler,Afghanistan,Retained,,15.0,GT,Gujarat Titans,True,793463,exact
+2023,Ravisrinivasan Sai Kishore,Bowler,India,Retained,,3.0,GT,Gujarat Titans,True,1048739,exact
+2023,Sai Sudharsan,Batter,India,Retained,,0.2,GT,Gujarat Titans,True,1151288,exact
+2023,Shubman Gill,Batter,India,Retained,,8.0,GT,Gujarat Titans,True,1070173,exact
+2023,Vijay Shankar,Allrounder,India,Retained,,1.4,GT,Gujarat Titans,True,477021,exact
+2023,Wriddhiman Saha,WK-Batter,India,Retained,,1.9,GT,Gujarat Titans,True,279810,exact
+2023,Yash Dayal,Bowler,India,Retained,,3.2,GT,Gujarat Titans,True,1159720,exact
+2023,Andre Russell,Allrounder,West Indies,Retained,,12.0,KKR,Kolkata Knight Riders,True,276298,exact
+2023,Anukul Roy,Allrounder,India,Retained,,0.2,KKR,Kolkata Knight Riders,True,1079839,exact
+2023,David Wiese,Allrounder,Namibia,Sold,1.0,1.0,KKR,Kolkata Knight Riders,True,221140,exact
+2023,Harshit Rana,Bowler,India,Retained,,0.2,KKR,Kolkata Knight Riders,True,1312645,exact
+2023,Kulwant Khejroliya,Bowler,India,Sold,0.2,0.2,KKR,Kolkata Knight Riders,True,1083033,exact
+2023,Litton Das,WK-Batter,Bangladesh,Sold,0.5,0.5,KKR,Kolkata Knight Riders,True,536936,exact
+2023,Lockie Ferguson,Bowler,New Zealand,Traded,,10.0,KKR,Kolkata Knight Riders,True,493773,exact
+2023,Mandeep Singh,Batter,India,Sold,0.5,0.5,KKR,Kolkata Knight Riders,True,398506,exact
+2023,Nitish Rana,Allrounder,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,604527,exact
+2023,Rahmanullah Gurbaz,WK-Batter,Afghanistan,Traded,,0.5,KKR,Kolkata Knight Riders,True,974087,exact
+2023,Rinku Singh,Batter,India,Retained,,0.55,KKR,Kolkata Knight Riders,True,723105,exact
+2023,Shardul Thakur,Bowler,India,Traded,,10.75,KKR,Kolkata Knight Riders,True,475281,exact
+2023,Shreyas Iyer,Batter,India,Retained,,12.25,KKR,Kolkata Knight Riders,True,642519,exact
+2023,Sunil Narine,Allrounder,West Indies,Retained,,6.0,KKR,Kolkata Knight Riders,True,230558,exact
+2023,Suyash Sharma,Bowler,India,Sold,0.2,0.2,KKR,Kolkata Knight Riders,True,1350792,exact
+2023,Tim Southee,Bowler,New Zealand,Retained,,1.5,KKR,Kolkata Knight Riders,True,232364,exact
+2023,Umesh Yadav,Bowler,India,Retained,,2.0,KKR,Kolkata Knight Riders,True,376116,exact
+2023,Vaibhav Arora,Allrounder,India,Sold,0.2,0.6,KKR,Kolkata Knight Riders,True,1209292,exact
+2023,Varun Chakaravarthy,Bowler,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,1108375,exact
+2023,Venkatesh Iyer,Allrounder,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,851403,exact
+2023,Amit Mishra,Bowler,India,Sold,0.5,0.5,LSG,Lucknow Super Giants,True,31107,exact
+2023,Avesh Khan,Bowler,India,Retained,,10.0,LSG,Lucknow Super Giants,True,694211,exact
+2023,Ayush Badoni,Allrounder,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1151270,exact
+2023,Deepak Hooda,Allrounder,India,Retained,,5.75,LSG,Lucknow Super Giants,True,497121,exact
+2023,Jaydev Unadkat,Bowler,India,Sold,0.5,0.5,LSG,Lucknow Super Giants,True,390484,exact
+2023,KL Rahul,WK-Batter,India,Retained,,17.0,LSG,Lucknow Super Giants,True,422108,exact
+2023,Karan Sharma,Allrounder,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1246518,exact
+2023,Krishnappa Gowtham,Allrounder,India,Retained,,0.9,LSG,Lucknow Super Giants,True,424377,exact
+2023,Krunal Pandya,Allrounder,India,Retained,,8.25,LSG,Lucknow Super Giants,True,471342,exact
+2023,Kyle Mayers,Allrounder,West Indies,Retained,,0.5,LSG,Lucknow Super Giants,True,348056,exact
+2023,Manan Vohra,Batter,India,Retained,,0.2,LSG,Lucknow Super Giants,True,532856,exact
+2023,Marcus Stoinis,Allrounder,Australia,Retained,,9.2,LSG,Lucknow Super Giants,True,325012,exact
+2023,Mark Wood,Bowler,England,Retained,,7.5,LSG,Lucknow Super Giants,True,351588,exact
+2023,Mayank Yadav,Bowler,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1292563,exact
+2023,Mohsin Khan,Bowler,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1132005,exact
+2023,Naveen-ul-Haq,Allrounder,Afghanistan,Sold,0.5,0.5,LSG,Lucknow Super Giants,True,793447,exact
+2023,Nicholas Pooran,WK-Batter,West Indies,Sold,2.0,16.0,LSG,Lucknow Super Giants,True,604302,exact
+2023,Prerak Mankad,Allrounder,India,Sold,0.2,0.2,LSG,Lucknow Super Giants,True,956871,exact
+2023,Quinton de Kock,WK-Batter,South Africa,Retained,,6.75,LSG,Lucknow Super Giants,True,379143,exact
+2023,Ravi Bishnoi,Bowler,India,Retained,,4.0,LSG,Lucknow Super Giants,True,1175441,exact
+2023,Romario Shepherd,Bowler,West Indies,Sold,0.5,0.5,LSG,Lucknow Super Giants,True,677077,exact
+2023,Swapnil Singh,Allrounder,India,Sold,0.2,0.2,LSG,Lucknow Super Giants,True,232292,exact
+2023,Yash Thakur,Bowler,India,Sold,0.2,0.45,LSG,Lucknow Super Giants,True,1070196,exact
+2023,Yudhvir Singh Charak,Allrounder,India,Sold,0.2,0.2,LSG,Lucknow Super Giants,True,1206052,exact
+2023,Akash Madhwal,Bowler,India,Retained,,0.2,MI,Mumbai Indians,True,1206039,exact
+2023,Arjun Tendulkar,Allrounder,India,Retained,,0.3,MI,Mumbai Indians,True,1148776,exact
+2023,Cameron Green,Allrounder,,Sold,2.0,17.5,MI,Mumbai Indians,True,1076713,exact
+2023,Dewald Brevis,Batter,South Africa,Retained,,3.0,MI,Mumbai Indians,True,1070665,exact
+2023,Duan Jansen,Allrounder,South Africa,Sold,0.2,0.2,MI,Mumbai Indians,True,595954,exact
+2023,Hrithik Shokeen,Allrounder,India,Retained,,0.2,MI,Mumbai Indians,True,1175423,exact
+2023,Ishan Kishan,WK-Batter,India,Retained,,15.25,MI,Mumbai Indians,True,720471,exact
+2023,Jason Behrendorff,Bowler,Australia,Traded,,0.75,MI,Mumbai Indians,True,272477,exact
+2023,Jasprit  Bumrah,Bowler,India,Retained,,12.0,MI,Mumbai Indians,True,625383,exact
+2023,Jhye Richardson,Bowler,Australia,Sold,1.5,1.5,MI,Mumbai Indians,True,774223,exact
+2023,Jofra Archer,Bowler,England,Retained,,8.0,MI,Mumbai Indians,True,669855,exact
+2023,Kumar Kartikeya,Allrounder,India,Retained,,0.2,MI,Mumbai Indians,True,1159843,exact
+2023,Nehal Wadhera,Allrounder,India,Sold,0.2,0.2,MI,Mumbai Indians,True,1151273,exact
+2023,Piyush Chawla,Bowler,India,Sold,0.5,0.5,MI,Mumbai Indians,True,32966,exact
+2023,Raghav Goyal,Bowler,India,Sold,0.2,0.2,MI,Mumbai Indians,True,1350770,exact
+2023,Ramandeep Singh,Batter,India,Retained,,0.2,MI,Mumbai Indians,True,1079470,exact
+2023,Rohit Sharma,Batter,India,Retained,,16.0,MI,Mumbai Indians,True,34102,exact
+2023,Shams Mulani,Allrounder,India,Sold,0.2,0.2,MI,Mumbai Indians,True,1131607,exact
+2023,Suryakumar Yadav,Batter,India,Retained,,8.0,MI,Mumbai Indians,True,446507,exact
+2023,Tilak Varma,Batter,India,Retained,,1.7,MI,Mumbai Indians,True,1170265,exact
+2023,Tim David,Allrounder,Singapore,Retained,,8.25,MI,Mumbai Indians,True,892749,exact
+2023,Tristan Stubbs,WK-Batter,South Africa,Retained,,0.2,MI,Mumbai Indians,True,595978,exact
+2023,Vishnu Vinod,WK-Batter,India,Sold,0.2,0.2,MI,Mumbai Indians,True,732293,exact
+2023,Arshdeep Singh,Bowler,India,Retained,,4.0,PBKS,Punjab Kings,True,1125976,exact
+2023,Atharva Taide,Allrounder,India,Retained,,0.2,PBKS,Punjab Kings,True,1125958,exact
+2023,Bhanuka Rajapaksa,Batter,Sri Lanka,Retained,,0.5,PBKS,Punjab Kings,True,342619,exact
+2023,Harpreet Brar,Bowler,India,Retained,,3.8,PBKS,Punjab Kings,True,1168641,exact
+2023,Jitesh Sharma,WK-Batter,India,Retained,,0.2,PBKS,Punjab Kings,True,721867,exact
+2023,Jonny Bairstow,WK-Batter,England,Retained,,6.75,PBKS,Punjab Kings,True,297433,exact
+2023,Kagiso Rabada,Bowler,South Africa,Retained,,9.25,PBKS,Punjab Kings,True,550215,exact
+2023,Liam Livingstone,Allrounder,England,Retained,,11.5,PBKS,Punjab Kings,True,403902,exact
+2023,Mohit Rathee,Allrounder,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,1349361,exact
+2023,Nathan Ellis,Bowler,Australia,Retained,,0.75,PBKS,Punjab Kings,True,826915,exact
+2023,Prabhsimran Singh,WK-Batter,India,Retained,,0.6,PBKS,Punjab Kings,True,1161024,exact
+2023,Rahul Chahar,Bowler,India,Retained,,5.25,PBKS,Punjab Kings,True,1064812,exact
+2023,Rishi Dhawan,Allrounder,India,Retained,,0.55,PBKS,Punjab Kings,True,290727,exact
+2023,Sam Curran,Allrounder,,Sold,2.0,18.5,PBKS,Punjab Kings,True,662973,exact
+2023,Shahrukh Khan,Batter,India,Retained,,9.0,PBKS,Punjab Kings,True,719719,exact
+2023,Shikhar Dhawan,Batter,India,Retained,,8.25,PBKS,Punjab Kings,True,28235,exact
+2023,Shivam Singh,Allrounder,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,1380113,exact
+2023,Sikandar Raza,Allrounder,Zimbabwe,Sold,0.5,0.5,PBKS,Punjab Kings,True,299572,exact
+2023,Akash Deep,Bowler,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,1176959,exact
+2023,Anuj Rawat,WK-Batter,India,Retained,,3.4,RCB,Royal Challengers Bengaluru,True,1123073,exact
+2023,David Willey,Allrounder,England,Retained,,2.0,RCB,Royal Challengers Bengaluru,True,308251,exact
+2023,Dinesh Karthik,WK-Batter,India,Retained,,5.5,RCB,Royal Challengers Bengaluru,True,30045,exact
+2023,Faf du Plessis,Batter,South Africa,Retained,,7.0,RCB,Royal Challengers Bengaluru,True,44828,exact
+2023,Glenn Maxwell,Allrounder,Australia,Retained,,11.0,RCB,Royal Challengers Bengaluru,True,325026,exact
+2023,Harshal Patel,Bowler,India,Retained,,10.75,RCB,Royal Challengers Bengaluru,True,390481,exact
+2023,Himanshu Sharma,Bowler,India,Sold,0.2,0.2,RCB,Royal Challengers Bengaluru,True,1350761,exact
+2023,Josh Hazlewood,Bowler,Australia,Retained,,7.75,RCB,Royal Challengers Bengaluru,True,288284,exact
+2023,Karn Sharma,Bowler,India,Retained,,0.5,RCB,Royal Challengers Bengaluru,True,30288,exact
+2023,Mahipal Lomror,Allrounder,India,Retained,,0.95,RCB,Royal Challengers Bengaluru,True,853265,exact
+2023,Mohammed Siraj,Bowler,India,Retained,,7.0,RCB,Royal Challengers Bengaluru,True,940973,exact
+2023,Rajat Patidar,Batter,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,823703,exact
+2023,Reece Topley,Bowler,England,Sold,0.75,1.9,RCB,Royal Challengers Bengaluru,True,461632,exact
+2023,Shahbaz Ahmed,Allrounder,India,Retained,,2.4,RCB,Royal Challengers Bengaluru,True,1159711,exact
+2023,Suyash Prabhudessai,Batter,India,Retained,,0.3,RCB,Royal Challengers Bengaluru,True,1083851,exact
+2023,Virat Kohli,Batter,India,Retained,,15.0,RCB,Royal Challengers Bengaluru,True,253802,exact
+2023,Wanindu Hasaranga,Allrounder,Sri Lanka,Retained,,10.75,RCB,Royal Challengers Bengaluru,True,784379,exact
+2023,Will Jacks,Allrounder,England,Sold,1.5,3.2,RCB,Royal Challengers Bengaluru,True,897549,exact
+2023,Abdul Basith,Allrounder,India,Sold,0.2,0.2,RR,Rajasthan Royals,True,1287067,exact
+2023,Adam Zampa,Bowler,Australia,Sold,1.5,1.5,RR,Rajasthan Royals,True,379504,exact
+2023,Devdutt Padikkal,Batter,India,Retained,,7.75,RR,Rajasthan Royals,True,1119026,exact
+2023,Dhruv Jurel,WK-Batter,India,Retained,,0.2,RR,Rajasthan Royals,True,1175488,exact
+2023,Jason Holder,Allrounder,West Indies,Sold,2.0,5.75,RR,Rajasthan Royals,True,391485,exact
+2023,Joe Root,Batter,England,Sold,1.0,1.0,RR,Rajasthan Royals,True,303669,exact
+2023,Jos Buttler,WK-Batter,England,Retained,,10.0,RR,Rajasthan Royals,True,308967,exact
+2023,KM Asif,Bowler,India,Sold,0.3,0.3,RR,Rajasthan Royals,True,1083030,exact
+2023,Kuldeep Sen,Bowler,India,Retained,,0.2,RR,Rajasthan Royals,True,1163695,exact
+2023,Kuldip Yadav,Bowler,India,Retained,,0.2,RR,Rajasthan Royals,True,1206495,exact
+2023,Murugan Ashwin,Bowler,India,Sold,0.2,0.2,RR,Rajasthan Royals,True,528067,exact
+2023,Navdeep Saini,Bowler,India,Retained,,2.6,RR,Rajasthan Royals,True,700167,exact
+2023,Obed McCoy,Bowler,West Indies,Retained,,0.75,RR,Rajasthan Royals,True,906783,exact
+2023,Ravichandran Ashwin,Allrounder,India,Retained,,5.0,RR,Rajasthan Royals,True,26421,exact
+2023,Riyan Parag,Allrounder,India,Retained,,3.8,RR,Rajasthan Royals,True,1079434,exact
+2023,Sanju Samson,WK-Batter,India,Retained,,14.0,RR,Rajasthan Royals,True,425943,exact
+2023,Shimron Hetmyer,Batter,West Indies,Retained,,8.5,RR,Rajasthan Royals,True,670025,exact
+2023,Trent Boult,Bowler,New Zealand,Retained,,8.0,RR,Rajasthan Royals,True,277912,exact
+2023,Yashasvi Jaiswal,Batter,India,Retained,,4.0,RR,Rajasthan Royals,True,1151278,exact
+2023,Yuzvendra Chahal,Bowler,India,Retained,,6.5,RR,Rajasthan Royals,True,430246,exact
+2023,Abhishek Sharma,Allrounder,India,Retained,,6.5,SRH,Sunrisers Hyderabad,True,1070183,exact
+2023,Adil Rashid,Bowler,England,Sold,2.0,2.0,SRH,Sunrisers Hyderabad,True,244497,exact
+2023,Akeal Hosein,Bowler,West Indies,Sold,1.0,1.0,SRH,Sunrisers Hyderabad,True,530812,exact
+2023,Anmolpreet Singh,Batter,India,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,851261,exact
+2023,Bhuvneshwar Kumar,Bowler,India,Retained,,4.2,SRH,Sunrisers Hyderabad,True,326016,exact
+2023,Fazalhaq Farooqi,Bowler,Afghanistan,Retained,,0.5,SRH,Sunrisers Hyderabad,True,974175,exact
+2023,Glenn Phillips,WK-Batter,New Zealand,Retained,,1.5,SRH,Sunrisers Hyderabad,True,823509,exact
+2023,Harry Brook,Batter,,Sold,1.5,13.25,SRH,Sunrisers Hyderabad,True,911707,exact
+2023,Heinrich Klaasen,WK-Batter,South Africa,Sold,1.0,5.25,SRH,Sunrisers Hyderabad,True,436757,exact
+2023,Kartik Tyagi,Bowler,India,Retained,,4.0,SRH,Sunrisers Hyderabad,True,1122918,exact
+2023,Mayank Agarwal,Batter,India,Sold,1.0,8.25,SRH,Sunrisers Hyderabad,True,398438,exact
+2023,Mayank Dagar,Allrounder,India,Sold,0.2,1.8,SRH,Sunrisers Hyderabad,True,942367,exact
+2023,Mayank Markande,Bowler,India,Sold,0.5,0.5,SRH,Sunrisers Hyderabad,True,1081442,exact
+2023,Rahul Tripathi,Batter,India,Retained,,8.5,SRH,Sunrisers Hyderabad,True,446763,exact
+2023,Sanvir Singh,Allrounder,India,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,1132219,exact
+2023,T Natarajan,Bowler,India,Retained,,4.0,SRH,Sunrisers Hyderabad,True,802575,exact
+2023,Vivrant Sharma,Allrounder,India,Sold,0.2,2.6,SRH,Sunrisers Hyderabad,True,1252370,exact
+2023,Akash Singh,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,1175458,exact
+2023,Chris Jordan,Bowler,England,Unsold,2.0,,Unsold,Unsold,False,288992,exact
+2023,Daryl Mitchell,Allrounder,New Zealand,Unsold,1.0,,Unsold,Unsold,False,381743,exact
+2023,Dasun Shanaka,Allrounder,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,437316,exact
+2023,Dushmantha Chameera,Bowler,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,552152,exact
+2023,Luke Wood,Bowler,England,Unsold,1.0,,Unsold,Unsold,False,573170,exact
+2023,Mohammad Nabi,Allrounder,Afghanistan,Unsold,1.0,,Unsold,Unsold,False,25913,exact
+2023,Priyam Garg,Batter,India,Unsold,0.2,,Unsold,Unsold,False,1070180,exact
+2023,Riley Meredith,Bowler,Australia,Unsold,1.5,,Unsold,Unsold,False,961713,exact
+2023,Sandeep Sharma,Bowler,India,Unsold,0.5,,Unsold,Unsold,False,438362,exact
+2023,Shashank Singh,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,377534,exact
+2023,Shreyas Gopal,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,344580,exact
+2023,Sumit Kumar,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,1159734,exact
+2023,Travis Head,Allrounder,Australia,Unsold,2.0,,Unsold,Unsold,False,530011,exact
+2023,Wayne Parnell,Allrounder,South Africa,Unsold,0.75,,Unsold,Unsold,False,265564,exact
+2023,Ajay Jadav Mandal,Allrounder,India,Sold,0.2,0.2,CSK,Chennai Super Kings,True,,
+2023,Bhagath Varma,Allrounder,India,Sold,0.2,0.2,CSK,Chennai Super Kings,True,,
+2023,Kyle Jamieson,Allrounder,New Zealand,Sold,1.0,1.0,CSK,Chennai Super Kings,True,,
+2023,Nishant Sindhu,Allrounder,India,Sold,0.2,0.6,CSK,Chennai Super Kings,True,,
+2023,Prashant Solanki,Bowler,India,Retained,,1.2,CSK,Chennai Super Kings,True,,
+2023,Shaik Rasheed,Batter,India,Sold,0.2,0.2,CSK,Chennai Super Kings,True,,
+2023,Subhranshu Senapati,Batter,India,Retained,,0.2,CSK,Chennai Super Kings,True,,
+2023,Kamlesh Nagarkoti,Bowler,India,Retained,,1.1,DC,Delhi Capitals,True,,
+2023,Lungi Ngidi,Bowler,South Africa,Retained,,0.5,DC,Delhi Capitals,True,,
+2023,Philip Salt,Batter,England,Sold,2.0,2.0,DC,Delhi Capitals,True,669365,surname_initial
+2023,Vicky Ostwal,Allrounder,India,Retained,,0.2,DC,Delhi Capitals,True,,
+2023,Abhinav Manohar Sadarangani,Batter,India,Retained,,2.6,GT,Gujarat Titans,True,,
+2023,Odean Smith,Allrounder,West Indies,Sold,0.5,0.5,GT,Gujarat Titans,True,,
+2023,Pradeep Sangwan,Bowler,India,Retained,,0.2,GT,Gujarat Titans,True,,
+2023,Shivam Mavi,Bowler,India,Sold,0.4,6.0,GT,Gujarat Titans,True,,
+2023,Srikar Bharat,WK-Batter,India,Sold,0.2,1.2,GT,Gujarat Titans,True,,
+2023,Urvil Patel,WK-Batter,India,Sold,0.2,0.2,GT,Gujarat Titans,True,,
+2023,N Jagadeesan,WK-Batter,India,Sold,0.2,0.9,KKR,Kolkata Knight Riders,True,1048813,surname_initial
+2023,Shakib Al Hasan,Allrounder,Bangladesh,Sold,1.5,1.5,KKR,Kolkata Knight Riders,True,,
+2023,Daniel Sams,Allrounder,Australia,Sold,0.75,0.75,LSG,Lucknow Super Giants,True,,
+2023,Mohd Arshad Khan,Bowler,India,Retained,,0.2,MI,Mumbai Indians,True,,
+2023,Baltej Singh,Allrounder,India,Retained,,0.2,PBKS,Punjab Kings,True,,
+2023,Harpreet Singh Bhatia,Batter,India,Sold,0.2,0.4,PBKS,Punjab Kings,True,,
+2023,Raj Bawa,Bowler,India,Retained,,2.0,PBKS,Punjab Kings,True,,
+2023,Vidhwath Kaverappa,Bowler,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,1155262,surname_initial
+2023,Avinash Singh,Bowler,India,Sold,0.2,0.6,RCB,Royal Challengers Bengaluru,True,,
+2023,Finn Allen,WK-Batter,New Zealand,Retained,,0.8,RCB,Royal Challengers Bengaluru,True,,
+2023,Manoj Bhandage,Allrounder,India,Sold,0.2,0.2,RCB,Royal Challengers Bengaluru,True,,
+2023,Rajan Kumar,Bowler,India,Sold,0.2,0.7,RCB,Royal Challengers Bengaluru,True,,
+2023,Siddarth Kaul,Bowler,India,Retained,,0.75,RCB,Royal Challengers Bengaluru,True,,
+2023,Sonu Yadav,Allrounder,India,Sold,0.2,0.2,RCB,Royal Challengers Bengaluru,True,446507,surname_initial
+2023,Akash Vashist,Allrounder,India,Sold,0.2,0.2,RR,Rajasthan Royals,True,,
+2023,Donavon Ferreira,WK-Batter,South Africa,Sold,0.2,0.5,RR,Rajasthan Royals,True,698315,surname_initial
+2023,KC Cariappa,Bowler,India,Retained,,0.3,RR,Rajasthan Royals,True,,
+2023,Kunal Singh Rathore,WK-Batter,India,Sold,0.2,0.2,RR,Rajasthan Royals,True,,
+2023,Prasidh Krishna,Bowler,India,Retained,,10.0,RR,Rajasthan Royals,True,,
+2023,Nitish Reddy,WK-Batter,India,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,1175496,surname_initial
+2023,Samarth Vyas,Allrounder,India,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,,
+2023,Upendra Yadav,WK-Batter,India,Sold,0.2,0.25,SRH,Sunrisers Hyderabad,True,376116,surname_initial
+2023,Abhimanyu Easwaran,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Adam Milne,Bowler,New Zealand,Unsold,2.0,,Unsold,Unsold,False,,
+2023,Baba Indrajith,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Balu Surya,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Blessing Muzarabani,Bowler,Zimbabwe,Unsold,0.5,,Unsold,Unsold,False,,
+2023,Chintal Gandhi,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Corbin Bosch,Allrounder,South Africa,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Dawid Malan,Batter,England,Unsold,1.5,,Unsold,Unsold,False,,
+2023,Deepesh Nainwal,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Dilshan Madushanka,Bowler,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,,
+2023,Dinesh Bana,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Ekant Sen,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Himmat Singh,Batter,India,Unsold,0.2,,Unsold,Unsold,False,340854,surname_initial
+2023,Izharulhaq Naveed,Bowler,Afghanistan,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Jagadeesha Suchith,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,James Neesham,Allrounder,New Zealand,Unsold,2.0,,Unsold,Unsold,False,,
+2023,Jitender Pal,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Johnson Charles,WK-Batter,West Indies,Unsold,0.5,,Unsold,Unsold,False,,
+2023,Karan Shinde,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Kusal Mendis,WK-Batter,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,,
+2023,LR Chethan,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Lance Morris,Bowler,Australia,Unsold,0.3,,Unsold,Unsold,False,,
+2023,Mohammed Azharuddeen,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Mujeeb Ur Rahman,Bowler,Afghanistan,Unsold,1.0,,Unsold,Unsold,False,330902,surname_initial
+2023,Mujtaba Yousuf,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Paul Stirling,Allrounder,Ireland,Unsold,0.5,,Unsold,Unsold,False,,
+2023,Paul van Meekeren,Bowler,Netherlands,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Prashant Chopra,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Priyank Panchal,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Rassie van der Dussen,Batter,South Africa,Unsold,2.0,,Unsold,Unsold,False,,
+2023,Rohan Kunnummal,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Sanjay Raghunath,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Saurabh Kumar,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,1159734,surname_initial
+2023,Sherfane Rutherford,Allrounder,West Indies,Unsold,1.5,,Unsold,Unsold,False,,
+2023,Shubham Kapse,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Shubham Khajuria,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Shubhang Hegde,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Sudhesan Midhun,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Suryansh Shedge,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Tabraiz Shamsi,Bowler,South Africa,Unsold,1.0,,Unsold,Unsold,False,,
+2023,Taskin Ahmed,Bowler,Bangladesh,Unsold,0.5,,Unsold,Unsold,False,,
+2023,Tejas Baroka,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Tom Banton,WK-Batter,England,Unsold,2.0,,Unsold,Unsold,False,,
+2023,Trilok Nag,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Utkarsh Singh,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Will Smeed,Batter,England,Unsold,0.2,,Unsold,Unsold,False,,
+2023,Yuvraj Chudasama,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Ajinkya Rahane,Batter,India,Retained,,0.5,CSK,Chennai Super Kings,True,277916,exact
+2024,Daryl Mitchell,Allrounder,,Sold,1.0,14.0,CSK,Chennai Super Kings,True,381743,exact
+2024,Deepak Chahar,Bowler,India,Retained,,14.0,CSK,Chennai Super Kings,True,447261,exact
+2024,Devon Conway,WK-Batter,New Zealand,Retained,,1.0,CSK,Chennai Super Kings,True,379140,exact
+2024,MS Dhoni,WK-Batter,India,Retained,,12.0,CSK,Chennai Super Kings,True,28081,exact
+2024,Maheesh Theekshana,Bowler,Sri Lanka,Retained,,0.7,CSK,Chennai Super Kings,True,1138316,exact
+2024,Matheesha Pathirana,Bowler,Sri Lanka,Retained,,0.2,CSK,Chennai Super Kings,True,1194795,exact
+2024,Mitchell Santner,Allrounder,New Zealand,Retained,,1.9,CSK,Chennai Super Kings,True,502714,exact
+2024,Moeen Ali,Allrounder,England,Retained,,8.0,CSK,Chennai Super Kings,True,8917,exact
+2024,Mukesh Choudhary,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,1125688,exact
+2024,Mustafizur Rahman,Bowler,Bangladesh,Sold,2.0,2.0,CSK,Chennai Super Kings,True,330902,exact
+2024,Rachin Ravindra,Allrounder,New Zealand,Sold,0.5,1.8,CSK,Chennai Super Kings,True,959767,exact
+2024,Ravindra Jadeja,Allrounder,India,Retained,,16.0,CSK,Chennai Super Kings,True,234675,exact
+2024,Ruturaj Gaikwad,Batter,India,Retained,,6.0,CSK,Chennai Super Kings,True,1060380,exact
+2024,Sameer Rizvi,Batter,India,Sold,0.2,8.4,CSK,Chennai Super Kings,True,1175489,exact
+2024,Shardul Thakur,Bowler,India,Sold,2.0,4.0,CSK,Chennai Super Kings,True,475281,exact
+2024,Shivam Dube,Allrounder,India,Retained,,4.0,CSK,Chennai Super Kings,True,714451,exact
+2024,Simarjeet Singh,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,1159722,exact
+2024,Tushar Deshpande,Bowler,India,Retained,,0.2,CSK,Chennai Super Kings,True,822553,exact
+2024,Abishek Porel,WK-Batter,India,Retained,,0.2,DC,Delhi Capitals,True,1277545,exact
+2024,Anrich Nortje,Bowler,South Africa,Retained,,6.5,DC,Delhi Capitals,True,481979,exact
+2024,Axar Patel,Allrounder,India,Retained,,9.0,DC,Delhi Capitals,True,554691,exact
+2024,David Warner,Batter,Australia,Retained,,6.25,DC,Delhi Capitals,True,219889,exact
+2024,Harry Brook,Batter,England,Sold,2.0,4.0,DC,Delhi Capitals,True,911707,exact
+2024,Ishant Sharma,Bowler,India,Retained,,0.5,DC,Delhi Capitals,True,236779,exact
+2024,Jhye Richardson,Bowler,Australia,Sold,1.5,5.0,DC,Delhi Capitals,True,774223,exact
+2024,Khaleel Ahmed,Bowler,India,Retained,,5.25,DC,Delhi Capitals,True,942645,exact
+2024,Kuldeep Yadav,Bowler,India,Retained,,2.0,DC,Delhi Capitals,True,559235,exact
+2024,Kumar Kushagra,WK-Batter,India,Sold,0.2,7.2,DC,Delhi Capitals,True,1207295,exact
+2024,Lalit Yadav,Allrounder,India,Retained,,0.65,DC,Delhi Capitals,True,930189,exact
+2024,Mitchell Marsh,Allrounder,Australia,Retained,,6.5,DC,Delhi Capitals,True,272450,exact
+2024,Mukesh Kumar,Bowler,India,Retained,,5.5,DC,Delhi Capitals,True,926851,exact
+2024,Praveen Dubey,Bowler,India,Retained,,0.5,DC,Delhi Capitals,True,777515,exact
+2024,Prithvi Shaw,Batter,India,Retained,,7.5,DC,Delhi Capitals,True,1070168,exact
+2024,Ricky Bhui,WK-Batter,India,Sold,0.2,0.2,DC,Delhi Capitals,True,642531,exact
+2024,Rishabh Pant,WK-Batter,India,Retained,,16.0,DC,Delhi Capitals,True,931581,exact
+2024,Shai Hope,WK-Batter,West Indies,Sold,0.75,0.75,DC,Delhi Capitals,True,581379,exact
+2024,Sumit Kumar,Allrounder,India,Sold,0.2,1.0,DC,Delhi Capitals,True,1159734,exact
+2024,Tristan Stubbs,WK-Batter,South Africa,Sold,0.5,0.5,DC,Delhi Capitals,True,595978,exact
+2024,Yash Dhull,Batter,India,Retained,,0.5,DC,Delhi Capitals,True,1292498,exact
+2024,Abhinav Manohar,Allrounder,India,Retained,,2.6,GT,Gujarat Titans,True,778963,exact
+2024,Azmatullah Omarzai,Allrounder,Afghanistan,Sold,0.5,0.5,GT,Gujarat Titans,True,819429,exact
+2024,Darshan Nalkande,Bowler,India,Retained,,0.2,GT,Gujarat Titans,True,1111917,exact
+2024,David Miller,Batter,South Africa,Retained,,3.0,GT,Gujarat Titans,True,321777,exact
+2024,Jayant Yadav,Bowler,India,Retained,,1.7,GT,Gujarat Titans,True,447587,exact
+2024,Joshua Little,Bowler,Ireland,Retained,,4.4,GT,Gujarat Titans,True,928067,exact
+2024,Kane Williamson,Batter,New Zealand,Retained,,2.0,GT,Gujarat Titans,True,277906,exact
+2024,Kartik Tyagi,Bowler,India,Sold,0.2,0.6,GT,Gujarat Titans,True,1122918,exact
+2024,Manav Suthar,Bowler,India,Sold,0.2,0.2,GT,Gujarat Titans,True,1175426,exact
+2024,Matthew Wade,WK-Batter,Australia,Retained,,2.4,GT,Gujarat Titans,True,230193,exact
+2024,Mohammed Shami,Bowler,India,Retained,,6.25,GT,Gujarat Titans,True,481896,exact
+2024,Mohit Sharma,Bowler,India,Retained,,0.5,GT,Gujarat Titans,True,537119,exact
+2024,Noor Ahmad,Bowler,Afghanistan,Retained,,0.3,GT,Gujarat Titans,True,1182529,exact
+2024,Rahul Tewatia,Allrounder,India,Retained,,9.0,GT,Gujarat Titans,True,423838,exact
+2024,Rashid Khan,Allrounder,Afghanistan,Retained,,15.0,GT,Gujarat Titans,True,793463,exact
+2024,Ravisrinivasan Sai Kishore,Bowler,India,Retained,,3.0,GT,Gujarat Titans,True,1048739,exact
+2024,Sai Sudharsan,Batter,India,Retained,,0.2,GT,Gujarat Titans,True,1151288,exact
+2024,Shahrukh Khan,Allrounder,India,Sold,0.4,7.4,GT,Gujarat Titans,True,719719,exact
+2024,Shubman Gill,Batter,India,Retained,,8.0,GT,Gujarat Titans,True,1070173,exact
+2024,Spencer Johnson,Bowler,Australia,Sold,0.5,10.0,GT,Gujarat Titans,True,1123718,exact
+2024,Umesh Yadav,Bowler,India,Sold,2.0,5.8,GT,Gujarat Titans,True,376116,exact
+2024,Vijay Shankar,Allrounder,India,Retained,,1.4,GT,Gujarat Titans,True,477021,exact
+2024,Wriddhiman Saha,WK-Batter,India,Retained,,1.9,GT,Gujarat Titans,True,279810,exact
+2024,Andre Russell,Allrounder,West Indies,Retained,,12.0,KKR,Kolkata Knight Riders,True,276298,exact
+2024,Angkrish Raghuvanshi,Batter,India,Sold,0.2,0.2,KKR,Kolkata Knight Riders,True,1292495,exact
+2024,Anukul Roy,Allrounder,India,Retained,,0.2,KKR,Kolkata Knight Riders,True,1079839,exact
+2024,Chetan Sakariya,Bowler,India,Sold,0.5,0.5,KKR,Kolkata Knight Riders,True,1131754,exact
+2024,Harshit Rana,Bowler,India,Retained,,0.2,KKR,Kolkata Knight Riders,True,1312645,exact
+2024,Jason Roy,Batter,England,Retained,,2.8,KKR,Kolkata Knight Riders,True,298438,exact
+2024,Manish Pandey,Batter,India,Sold,0.5,0.5,KKR,Kolkata Knight Riders,True,290630,exact
+2024,Mitchell Starc,Bowler,,Sold,2.0,24.75,KKR,Kolkata Knight Riders,True,311592,exact
+2024,Nitish Rana,Batter,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,604527,exact
+2024,Rahmanullah Gurbaz,WK-Batter,Afghanistan,Retained,,0.5,KKR,Kolkata Knight Riders,True,974087,exact
+2024,Ramandeep Singh,Allrounder,India,Sold,0.2,0.2,KKR,Kolkata Knight Riders,True,1079470,exact
+2024,Rinku Singh,Batter,India,Retained,,0.55,KKR,Kolkata Knight Riders,True,723105,exact
+2024,Shreyas Iyer,Batter,India,Retained,,12.25,KKR,Kolkata Knight Riders,True,642519,exact
+2024,Sunil Narine,Allrounder,West Indies,Retained,,6.0,KKR,Kolkata Knight Riders,True,230558,exact
+2024,Suyash Sharma,Bowler,India,Retained,,0.2,KKR,Kolkata Knight Riders,True,1350792,exact
+2024,Vaibhav Arora,Bowler,India,Retained,,0.6,KKR,Kolkata Knight Riders,True,1209292,exact
+2024,Varun Chakaravarthy,Bowler,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,1108375,exact
+2024,Venkatesh Iyer,Allrounder,India,Retained,,8.0,KKR,Kolkata Knight Riders,True,851403,exact
+2024,Amit Mishra,Bowler,India,Retained,,0.5,LSG,Lucknow Super Giants,True,31107,exact
+2024,Arshad Khan,Bowler,India,Sold,0.2,0.2,LSG,Lucknow Super Giants,True,1244751,exact
+2024,Arshin Kulkarni,Allrounder,India,Sold,0.2,0.2,LSG,Lucknow Super Giants,True,1403153,exact
+2024,Ashton Turner,Batter,Australia,Sold,1.0,1.0,LSG,Lucknow Super Giants,True,500268,exact
+2024,Ayush Badoni,Batter,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1151270,exact
+2024,David Willey,Allrounder,England,Sold,2.0,2.0,LSG,Lucknow Super Giants,True,308251,exact
+2024,Deepak Hooda,Allrounder,India,Retained,,5.75,LSG,Lucknow Super Giants,True,497121,exact
+2024,Devdutt Padikkal,Batter,India,Traded,,7.75,LSG,Lucknow Super Giants,True,1119026,exact
+2024,KL Rahul,WK-Batter,India,Retained,,17.0,LSG,Lucknow Super Giants,True,422108,exact
+2024,Krishnappa Gowtham,Allrounder,India,Retained,,0.9,LSG,Lucknow Super Giants,True,424377,exact
+2024,Krunal Pandya,Allrounder,India,Retained,,8.25,LSG,Lucknow Super Giants,True,471342,exact
+2024,Kyle Mayers,Allrounder,West Indies,Retained,,0.5,LSG,Lucknow Super Giants,True,348056,exact
+2024,Manimaran Siddharth,Bowler,India,Sold,0.2,2.4,LSG,Lucknow Super Giants,True,1151286,exact
+2024,Marcus Stoinis,Allrounder,Australia,Retained,,9.2,LSG,Lucknow Super Giants,True,325012,exact
+2024,Mark Wood,Bowler,England,Retained,,7.5,LSG,Lucknow Super Giants,True,351588,exact
+2024,Mayank Yadav,Bowler,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1292563,exact
+2024,Mohsin Khan,Bowler,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1132005,exact
+2024,Naveen-ul-Haq,Bowler,Afghanistan,Retained,,0.5,LSG,Lucknow Super Giants,True,793447,exact
+2024,Nicholas Pooran,WK-Batter,West Indies,Retained,,16.0,LSG,Lucknow Super Giants,True,604302,exact
+2024,Prerak Mankad,Allrounder,India,Retained,,0.2,LSG,Lucknow Super Giants,True,956871,exact
+2024,Quinton de Kock,WK-Batter,South Africa,Retained,,6.75,LSG,Lucknow Super Giants,True,379143,exact
+2024,Ravi Bishnoi,Bowler,India,Retained,,4.0,LSG,Lucknow Super Giants,True,1175441,exact
+2024,Yash Thakur,Bowler,India,Retained,,0.45,LSG,Lucknow Super Giants,True,1070196,exact
+2024,Yudhvir Singh Charak,Allrounder,India,Retained,,0.2,LSG,Lucknow Super Giants,True,1206052,exact
+2024,Akash Madhwal,Bowler,India,Retained,,0.2,MI,Mumbai Indians,True,1206039,exact
+2024,Anshul Kamboj,Allrounder,India,Sold,0.2,0.2,MI,Mumbai Indians,True,1175428,exact
+2024,Arjun Tendulkar,Bowler,India,Retained,,0.3,MI,Mumbai Indians,True,1148776,exact
+2024,Dewald Brevis,Batter,South Africa,Retained,,3.0,MI,Mumbai Indians,True,1070665,exact
+2024,Gerald Coetzee,Allrounder,South Africa,Sold,2.0,5.0,MI,Mumbai Indians,True,596010,exact
+2024,Hardik Pandya,Allrounder,India,Traded,,15.0,MI,Mumbai Indians,True,625371,exact
+2024,Ishan Kishan,WK-Batter,India,Retained,,15.25,MI,Mumbai Indians,True,720471,exact
+2024,Jason Behrendorff,Bowler,Australia,Retained,,0.75,MI,Mumbai Indians,True,272477,exact
+2024,Jasprit Bumrah,Bowler,India,Retained,,12.0,MI,Mumbai Indians,True,625383,exact
+2024,Kumar Kartikeya,Bowler,India,Retained,,0.2,MI,Mumbai Indians,True,1159843,exact
+2024,Mohammad Nabi,Allrounder,Afghanistan,Sold,1.5,1.5,MI,Mumbai Indians,True,25913,exact
+2024,Naman Dhir,Allrounder,India,Sold,0.2,0.2,MI,Mumbai Indians,True,1287032,exact
+2024,Nehal Wadhera,Batter,India,Retained,,0.2,MI,Mumbai Indians,True,1151273,exact
+2024,Nuwan Thushara,Bowler,Sri Lanka,Sold,0.5,4.8,MI,Mumbai Indians,True,955235,exact
+2024,Piyush Chawla,Allrounder,India,Retained,,0.5,MI,Mumbai Indians,True,32966,exact
+2024,Rohit Sharma,Batter,India,Retained,,16.0,MI,Mumbai Indians,True,34102,exact
+2024,Romario Shepherd,Allrounder,West Indies,Traded,,0.5,MI,Mumbai Indians,True,677077,exact
+2024,Shams Mulani,Allrounder,India,Retained,,0.2,MI,Mumbai Indians,True,1131607,exact
+2024,Shreyas Gopal,Bowler,India,Sold,0.2,0.2,MI,Mumbai Indians,True,344580,exact
+2024,Suryakumar Yadav,Batter,India,Retained,,8.0,MI,Mumbai Indians,True,446507,exact
+2024,Tilak Varma,Allrounder,India,Retained,,1.7,MI,Mumbai Indians,True,1170265,exact
+2024,Tim David,Batter,Australia,Retained,,8.25,MI,Mumbai Indians,True,892749,exact
+2024,Vishnu Vinod,WK-Batter,India,Retained,,0.2,MI,Mumbai Indians,True,732293,exact
+2024,Arshdeep Singh,Bowler,India,Retained,,4.0,PBKS,Punjab Kings,True,1125976,exact
+2024,Ashutosh Sharma,Allrounder,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,1131978,exact
+2024,Atharva Taide,Allrounder,India,Retained,,0.2,PBKS,Punjab Kings,True,1125958,exact
+2024,Harpreet Brar,Bowler,India,Retained,,3.8,PBKS,Punjab Kings,True,1168641,exact
+2024,Harshal Patel,Bowler,India,Sold,2.0,11.75,PBKS,Punjab Kings,True,390481,exact
+2024,Jitesh Sharma,WK-Batter,India,Retained,,0.2,PBKS,Punjab Kings,True,721867,exact
+2024,Jonny Bairstow,WK-Batter,England,Retained,,6.75,PBKS,Punjab Kings,True,297433,exact
+2024,Kagiso Rabada,Bowler,South Africa,Retained,,9.25,PBKS,Punjab Kings,True,550215,exact
+2024,Liam Livingstone,Allrounder,England,Retained,,11.5,PBKS,Punjab Kings,True,403902,exact
+2024,Nathan Ellis,Bowler,Australia,Retained,,0.75,PBKS,Punjab Kings,True,826915,exact
+2024,Prabhsimran Singh,WK-Batter,India,Retained,,0.6,PBKS,Punjab Kings,True,1161024,exact
+2024,Rahul Chahar,Bowler,India,Retained,,5.25,PBKS,Punjab Kings,True,1064812,exact
+2024,Rilee Rossouw,Batter,South Africa,Sold,2.0,8.0,PBKS,Punjab Kings,True,318845,exact
+2024,Rishi Dhawan,Allrounder,India,Retained,,0.55,PBKS,Punjab Kings,True,290727,exact
+2024,Sam Curran,Allrounder,England,Retained,,18.5,PBKS,Punjab Kings,True,662973,exact
+2024,Shashank Singh,Batter,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,377534,exact
+2024,Shikhar Dhawan,Batter,India,Retained,,8.25,PBKS,Punjab Kings,True,28235,exact
+2024,Shivam Singh,Allrounder,India,Retained,,0.2,PBKS,Punjab Kings,True,1380113,exact
+2024,Sikandar Raza,Allrounder,Zimbabwe,Retained,,0.5,PBKS,Punjab Kings,True,299572,exact
+2024,Akash Deep,Allrounder,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,1176959,exact
+2024,Alzarri Joseph,Bowler,West Indies,Sold,1.0,11.5,RCB,Royal Challengers Bengaluru,True,670031,exact
+2024,Anuj Rawat,WK-Batter,India,Retained,,3.4,RCB,Royal Challengers Bengaluru,True,1123073,exact
+2024,Cameron Green,Allrounder,Australia,Traded,,17.5,RCB,Royal Challengers Bengaluru,True,1076713,exact
+2024,Dinesh Karthik,WK-Batter,India,Retained,,5.5,RCB,Royal Challengers Bengaluru,True,30045,exact
+2024,Faf du Plessis,Batter,South Africa,Retained,,7.0,RCB,Royal Challengers Bengaluru,True,44828,exact
+2024,Glenn Maxwell,Allrounder,Australia,Retained,,11.0,RCB,Royal Challengers Bengaluru,True,325026,exact
+2024,Himanshu Sharma,Bowler,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,1350761,exact
+2024,Karn Sharma,Bowler,India,Retained,,0.5,RCB,Royal Challengers Bengaluru,True,30288,exact
+2024,Lockie Ferguson,Bowler,New Zealand,Sold,2.0,2.0,RCB,Royal Challengers Bengaluru,True,493773,exact
+2024,Mahipal Lomror,Allrounder,India,Retained,,0.95,RCB,Royal Challengers Bengaluru,True,853265,exact
+2024,Mayank Dagar,Bowler,India,Traded,,1.8,RCB,Royal Challengers Bengaluru,True,942367,exact
+2024,Mohammed Siraj,Bowler,India,Retained,,7.0,RCB,Royal Challengers Bengaluru,True,940973,exact
+2024,Rajat Patidar,Batter,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,823703,exact
+2024,Reece Topley,Bowler,England,Retained,,1.9,RCB,Royal Challengers Bengaluru,True,461632,exact
+2024,Saurav Chauhan,Batter,India,Sold,0.2,0.2,RCB,Royal Challengers Bengaluru,True,1287369,exact
+2024,Suyash Prabhudessai,Allrounder,India,Retained,,0.3,RCB,Royal Challengers Bengaluru,True,1083851,exact
+2024,Swapnil Singh,Allrounder,India,Sold,0.2,0.2,RCB,Royal Challengers Bengaluru,True,232292,exact
+2024,Vijaykumar Vyshak,Bowler,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,777815,exact
+2024,Virat Kohli,Batter,India,Retained,,15.0,RCB,Royal Challengers Bengaluru,True,253802,exact
+2024,Will Jacks,Allrounder,England,Retained,,3.2,RCB,Royal Challengers Bengaluru,True,897549,exact
+2024,Yash Dayal,Bowler,India,Sold,0.2,5.0,RCB,Royal Challengers Bengaluru,True,1159720,exact
+2024,Adam Zampa,Bowler,Australia,Retained,,1.5,RR,Rajasthan Royals,True,379504,exact
+2024,Avesh Khan,Bowler,India,Traded,,10.0,RR,Rajasthan Royals,True,694211,exact
+2024,Dhruv Jurel,WK-Batter,India,Retained,,0.2,RR,Rajasthan Royals,True,1175488,exact
+2024,Donovan Ferreira,Allrounder,South Africa,Retained,,0.5,RR,Rajasthan Royals,True,698315,exact
+2024,Jos Buttler,WK-Batter,England,Retained,,10.0,RR,Rajasthan Royals,True,308967,exact
+2024,Kuldeep Sen,Bowler,India,Retained,,0.2,RR,Rajasthan Royals,True,1163695,exact
+2024,Nandre Burger,Bowler,South Africa,Sold,0.5,0.5,RR,Rajasthan Royals,True,971349,exact
+2024,Navdeep Saini,Bowler,India,Retained,,2.6,RR,Rajasthan Royals,True,700167,exact
+2024,Ravichandran Ashwin,Allrounder,India,Retained,,5.0,RR,Rajasthan Royals,True,26421,exact
+2024,Riyan Parag,Batter,India,Retained,,3.8,RR,Rajasthan Royals,True,1079434,exact
+2024,Rovman Powell,Batter,West Indies,Sold,1.0,7.4,RR,Rajasthan Royals,True,820351,exact
+2024,Sandeep Sharma,Bowler,India,Retained,,0.5,RR,Rajasthan Royals,True,438362,exact
+2024,Sanju Samson,WK-Batter,India,Retained,,14.0,RR,Rajasthan Royals,True,425943,exact
+2024,Shimron Hetmyer,Batter,West Indies,Retained,,8.5,RR,Rajasthan Royals,True,670025,exact
+2024,Shubham Dubey,Batter,India,Sold,0.2,5.8,RR,Rajasthan Royals,True,1252585,exact
+2024,Tom Kohler-Cadmore,WK-Batter,England,Sold,0.4,0.4,RR,Rajasthan Royals,True,470633,exact
+2024,Trent Boult,Bowler,New Zealand,Retained,,8.0,RR,Rajasthan Royals,True,277912,exact
+2024,Yashasvi Jaiswal,Batter,India,Retained,,4.0,RR,Rajasthan Royals,True,1151278,exact
+2024,Yuzvendra Chahal,Bowler,India,Retained,,6.5,RR,Rajasthan Royals,True,430246,exact
+2024,Abdul Samad,Batter,India,Retained,,4.0,SRH,Sunrisers Hyderabad,True,1175485,exact
+2024,Abhishek Sharma,Allrounder,India,Retained,,6.5,SRH,Sunrisers Hyderabad,True,1070183,exact
+2024,Aiden Markram,Batter,South Africa,Retained,,2.6,SRH,Sunrisers Hyderabad,True,600498,exact
+2024,Anmolpreet Singh,Batter,India,Retained,,0.2,SRH,Sunrisers Hyderabad,True,851261,exact
+2024,Bhuvneshwar Kumar,Bowler,India,Retained,,4.2,SRH,Sunrisers Hyderabad,True,326016,exact
+2024,Fazalhaq Farooqi,Bowler,Afghanistan,Retained,,0.5,SRH,Sunrisers Hyderabad,True,974175,exact
+2024,Glenn Phillips,Allrounder,New Zealand,Retained,,1.5,SRH,Sunrisers Hyderabad,True,823509,exact
+2024,Heinrich Klaasen,WK-Batter,South Africa,Retained,,5.25,SRH,Sunrisers Hyderabad,True,436757,exact
+2024,Jaydev Unadkat,Bowler,India,Sold,0.5,1.6,SRH,Sunrisers Hyderabad,True,390484,exact
+2024,Marco Jansen,Allrounder,South Africa,Retained,,4.2,SRH,Sunrisers Hyderabad,True,696401,exact
+2024,Mayank Agarwal,Batter,India,Retained,,8.25,SRH,Sunrisers Hyderabad,True,398438,exact
+2024,Mayank Markande,Bowler,India,Retained,,0.5,SRH,Sunrisers Hyderabad,True,1081442,exact
+2024,Pat Cummins,Bowler,,Sold,2.0,20.5,SRH,Sunrisers Hyderabad,True,489889,exact
+2024,Rahul Tripathi,Batter,India,Retained,,8.5,SRH,Sunrisers Hyderabad,True,446763,exact
+2024,Sanvir Singh,Allrounder,India,Retained,,0.2,SRH,Sunrisers Hyderabad,True,1132219,exact
+2024,Shahbaz Ahmed,Allrounder,India,Traded,,2.4,SRH,Sunrisers Hyderabad,True,1159711,exact
+2024,T Natarajan,Bowler,India,Retained,,4.0,SRH,Sunrisers Hyderabad,True,802575,exact
+2024,Travis Head,Batter,Australia,Sold,2.0,6.8,SRH,Sunrisers Hyderabad,True,530011,exact
+2024,Umran Malik,Bowler,India,Retained,,4.0,SRH,Sunrisers Hyderabad,True,1246528,exact
+2024,Wanindu Hasaranga,Allrounder,Sri Lanka,Sold,1.5,1.5,SRH,Sunrisers Hyderabad,True,784379,exact
+2024,Washington Sundar,Allrounder,India,Retained,,8.75,SRH,Sunrisers Hyderabad,True,719715,exact
+2024,Adil Rashid,Bowler,England,Unsold,2.0,,Unsold,Unsold,False,244497,exact
+2024,Akeal Hosein,Bowler,West Indies,Unsold,0.5,,Unsold,Unsold,False,530812,exact
+2024,Dushmantha Chameera,Bowler,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,552152,exact
+2024,Hrithik Shokeen,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,1175423,exact
+2024,Josh Hazlewood,Bowler,Australia,Unsold,2.0,,Unsold,Unsold,False,288284,exact
+2024,KM Asif,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,1083030,exact
+2024,Kuldip Yadav,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,1206495,exact
+2024,Luke Wood,Bowler,England,Unsold,0.5,,Unsold,Unsold,False,573170,exact
+2024,Manan Vohra,Batter,India,Unsold,0.2,,Unsold,Unsold,False,532856,exact
+2024,Matt Henry,Bowler,New Zealand,Unsold,0.75,,Unsold,Unsold,False,506612,exact
+2024,Michael Bracewell,Allrounder,New Zealand,Unsold,1.0,,Unsold,Unsold,False,326968,exact
+2024,Murugan Ashwin,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,528067,exact
+2024,Sandeep Warrier,Bowler,India,Unsold,0.5,,Unsold,Unsold,False,592735,exact
+2024,Sarfaraz Khan,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,642525,exact
+2024,Shashank Singh,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,377534,exact
+2024,Tanush Kotian,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,1125960,exact
+2024,Vivrant Sharma,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,1252370,exact
+2024,Ajay Jadav Mandal,Allrounder,India,Retained,,0.2,CSK,Chennai Super Kings,True,,
+2024,Aravelly Avanish,WK-Batter,India,Sold,0.2,0.2,CSK,Chennai Super Kings,True,,
+2024,Nishant Sindhu,Allrounder,India,Retained,,0.6,CSK,Chennai Super Kings,True,,
+2024,Prashant Solanki,Bowler,India,Retained,,1.2,CSK,Chennai Super Kings,True,,
+2024,RS Hangargekar,Bowler,India,Retained,,1.5,CSK,Chennai Super Kings,True,1175429,surname_initial
+2024,Shaik Rasheed,Batter,India,Retained,,0.2,CSK,Chennai Super Kings,True,,
+2024,Lungi Ngidi,Bowler,South Africa,Retained,,0.5,DC,Delhi Capitals,True,,
+2024,Rasikh Dar Salam,Bowler,India,Sold,0.2,0.2,DC,Delhi Capitals,True,1161489,surname_initial
+2024,Swastik Chikara,Batter,India,Sold,0.2,0.2,DC,Delhi Capitals,True,,
+2024,Vicky Ostwal,Bowler,India,Retained,,0.2,DC,Delhi Capitals,True,,
+2024,Robin Minz,WK-Batter,India,Sold,0.2,3.6,GT,Gujarat Titans,True,,
+2024,Sushant Mishra,Bowler,India,Sold,0.2,2.2,GT,Gujarat Titans,True,,
+2024,Gus Atkinson,Bowler,England,Sold,1.0,1.0,KKR,Kolkata Knight Riders,True,,
+2024,Mujeeb Ur Rahman,Bowler,Afghanistan,Sold,2.0,2.0,KKR,Kolkata Knight Riders,True,330902,surname_initial
+2024,Sakib Hussain,Bowler,India,Sold,0.2,0.2,KKR,Kolkata Knight Riders,True,,
+2024,Sherfane Rutherford,Batter,West Indies,Sold,1.5,1.5,KKR,Kolkata Knight Riders,True,,
+2024,Srikar Bharat,WK-Batter,India,Sold,0.5,0.5,KKR,Kolkata Knight Riders,True,,
+2024,Shivam Mavi,Bowler,India,Sold,0.5,6.4,LSG,Lucknow Super Giants,True,,
+2024,Dilshan Madushanka,Bowler,Sri Lanka,Sold,0.5,4.6,MI,Mumbai Indians,True,,
+2024,Shivalik Sharma,Allrounder,India,Sold,0.2,0.2,MI,Mumbai Indians,True,,
+2024,Chris Woakes,Allrounder,England,Sold,2.0,4.2,PBKS,Punjab Kings,True,,
+2024,Harpreet Singh Bhatia,Batter,India,Retained,,0.4,PBKS,Punjab Kings,True,,
+2024,Prince Choudhary,Bowler,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,,
+2024,Tanay Thyagarajan,Allrounder,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,,
+2024,Vidhwath Kaverappa,Bowler,India,Retained,,0.2,PBKS,Punjab Kings,True,1155262,surname_initial
+2024,Vishwanath Singh,Allrounder,India,Sold,0.2,0.2,PBKS,Punjab Kings,True,,
+2024,Manoj Bhandage,Allrounder,India,Retained,,0.2,RCB,Royal Challengers Bengaluru,True,,
+2024,Rajan Kumar,Bowler,India,Retained,,0.7,RCB,Royal Challengers Bengaluru,True,,
+2024,Tom Curran,Allrounder,England,Sold,1.5,1.5,RCB,Royal Challengers Bengaluru,True,,
+2024,Abid Mushtaq,Allrounder,India,Sold,0.2,0.2,RR,Rajasthan Royals,True,,
+2024,Kunal Singh Rathore,WK-Batter,India,Retained,,0.2,RR,Rajasthan Royals,True,,
+2024,Prasidh Krishna,Bowler,India,Retained,,10.0,RR,Rajasthan Royals,True,,
+2024,Akash Maharaj Singh,Bowler,India,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,,
+2024,Jhatavedh Subramanyan,Bowler,Hong Kong,Sold,0.2,0.2,SRH,Sunrisers Hyderabad,True,,
+2024,Nitish Reddy,Allrounder,India,Retained,,0.2,SRH,Sunrisers Hyderabad,True,1175496,surname_initial
+2024,Upendra Yadav,WK-Batter,India,Retained,,0.25,SRH,Sunrisers Hyderabad,True,376116,surname_initial
+2024,Abhilash Shetty,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Adam Milne,Bowler,New Zealand,Unsold,1.0,,Unsold,Unsold,False,,
+2024,Ajitesh Guruswamy,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Amandeep Khare,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Atit Sheth,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Ben Dwarshuis,Bowler,Australia,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Bipin Saurabh,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Colin Munro,Batter,New Zealand,Unsold,1.5,,Unsold,Unsold,False,,
+2024,Finn Allen,Batter,New Zealand,Unsold,0.75,,Unsold,Unsold,False,,
+2024,Gaurav Chaudhary,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Gurjapneet Singh,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Harsh Dubey,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Himmat Singh,Batter,India,Unsold,0.2,,Unsold,Unsold,False,340854,surname_initial
+2024,Ish Sodhi,Bowler,New Zealand,Unsold,0.75,,Unsold,Unsold,False,,
+2024,Ishan Porel,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,James Neesham,Allrounder,New Zealand,Unsold,1.5,,Unsold,Unsold,False,,
+2024,Josh Inglis,WK-Batter,Australia,Unsold,2.0,,Unsold,Unsold,False,,
+2024,Kamlesh Nagarkoti,Allrounder,India,Unsold,0.3,,Unsold,Unsold,False,,
+2024,Karun Nair,Batter,India,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Keemo Paul,Allrounder,West Indies,Unsold,0.75,,Unsold,Unsold,False,,
+2024,Krishnan Shrijith,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Kusal Mendis,WK-Batter,Sri Lanka,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Lance Morris,Bowler,Australia,Unsold,0.75,,Unsold,Unsold,False,,
+2024,Mohammed Kaif,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Odean Smith,Allrounder,West Indies,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Philip Salt,WK-Batter,England,Unsold,1.5,,Unsold,Unsold,False,669365,surname_initial
+2024,Pradosh Paul,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Prithvi Raj Yarra,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Priyansh Arya,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Pulkit Narang,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Qais Ahmad,Allrounder,Afghanistan,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Raj Bawa,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Rassie van der Dussen,Batter,South Africa,Unsold,2.0,,Unsold,Unsold,False,,
+2024,Rithik Easwaran,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Rohan Kunnummal,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Rohit Rayudu,Allrounder,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Shiva Singh,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Shubham Agarwal,Bowler,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Steve Smith,Batter,Australia,Unsold,2.0,,Unsold,Unsold,False,,
+2024,Sumeet Verma,Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Tabraiz Shamsi,Bowler,South Africa,Unsold,0.5,,Unsold,Unsold,False,,
+2024,Tymal Mills,Bowler,England,Unsold,1.5,,Unsold,Unsold,False,,
+2024,Urvil Patel,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Vishnu Solanki,WK-Batter,India,Unsold,0.2,,Unsold,Unsold,False,,
+2024,Waqar Salamkheil,Bowler,Afghanistan,Unsold,0.5,,Unsold,Unsold,False,,

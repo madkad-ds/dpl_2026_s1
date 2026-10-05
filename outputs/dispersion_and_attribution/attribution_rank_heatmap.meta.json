@@ -1,0 +1,30 @@
+{
+  "analysis": "dispersion_and_attribution",
+  "seed": 202609081209,
+  "run_timestamp_utc": "2026-10-03T13:49:21+00:00",
+  "producer": "dispersion_and_attribution.ipynb",
+  "bootstrap": {
+    "n_resamples": 10000,
+    "interval_level": 0.95,
+    "equivalence_level": 0.9,
+    "mde_se_multiple": 2.8,
+    "ratio_bias_flag_se_multiple": 0.25
+  },
+  "seasons": {
+    "earlier": 2023,
+    "later": 2024
+  },
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "sklearn": "1.9.0",
+    "statsmodels": "0.14.6",
+    "pymc": "6.3.1",
+    "arviz": "1.3.0",
+    "ruptures": "v1.1.10",
+    "matplotlib": "3.11.1"
+  },
+  "command": "/Users/madkad/dpl_2026_s1/.venv/lib/python3.12/site-packages/ipykernel_launcher.py --f=/Users/madkad/Library/Jupyter/runtime/kernel-v3b83427cc07f340c5d7c3663a73d02f73593ece36.json"
+}

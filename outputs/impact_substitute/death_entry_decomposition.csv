@@ -1,0 +1,4 @@
+component,estimate,ci_low,ci_high,p_positive,interval_method
+pooled_death_entry_share_change,0.07582838838418315,-0.020785521443678557,0.16796530111841007,0.9397,percentile
+innings_mix_component,0.0805145071584679,0.013131178601963691,0.15160439617381452,0.9906,percentile
+within_innings_timing_component,-0.004686118774284745,-0.07963043673458106,0.07272972618413155,0.445,percentile

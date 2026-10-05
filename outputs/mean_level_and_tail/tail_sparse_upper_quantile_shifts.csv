@@ -1,0 +1,7 @@
+theme,estimate,ci_low,ci_high,interval_method,bca_low,bca_high,boot_t_low,boot_t_high,raw_scale_bca_low,raw_scale_bca_high,null,resampling_stable,se_boot,se_linearized,log_ratio_bias,log_ratio_bias_flag,scale,interval_level,power_tier,note,quantile,population
+sparse_upper_quantile_shift_q90,17.9,-3.0,49.2,bca,-3.0,49.2,,,,,0.0,False,14.51234,,,False,linear,0.95,fragile_tail,,0.9,first_innings_full_allowance
+sparse_upper_quantile_shift_q95,36.4,7.0,59.0,bca,7.0,59.0,,,,,0.0,True,13.78393,,,False,linear,0.95,fragile_tail,,0.95,first_innings_full_allowance
+sparse_upper_quantile_shift_q97,39.53,8.531,60.19,bca,8.531,60.19,,,,,0.0,True,13.03539,,,False,linear,0.95,fragile_tail,,0.97,first_innings_full_allowance
+sparse_upper_quantile_shift_q90,20.7,3.2,49.4725,bca,3.2,49.4725,,,,,0.0,True,12.50443,,,False,linear,0.95,fragile_tail,,0.9,first_innings_plus_failed_chases
+sparse_upper_quantile_shift_q95,36.35,10.75,58.0,bca,10.75,58.0,,,,,0.0,True,12.78083,,,False,linear,0.95,fragile_tail,,0.95,first_innings_plus_failed_chases
+sparse_upper_quantile_shift_q97,38.03,13.67,59.5982,bca,13.67,59.5982,,,,,0.0,True,11.56323,,,False,linear,0.95,fragile_tail,,0.97,first_innings_plus_failed_chases

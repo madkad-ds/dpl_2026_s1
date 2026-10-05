@@ -1,0 +1,17 @@
+phase,year,kind3,balls,phase_year_total,share
+powerplay,2023,other,6,5256,0.001
+powerplay,2023,pace,4187,5256,0.797
+powerplay,2023,spin,1063,5256,0.202
+powerplay,2024,pace,4326,5040,0.858
+powerplay,2024,spin,714,5040,0.142
+middle,2023,other,30,7839,0.004
+middle,2023,pace,2683,7839,0.342
+middle,2023,spin,5126,7839,0.654
+middle,2024,other,6,7448,0.001
+middle,2024,pace,3312,7448,0.445
+middle,2024,spin,4130,7448,0.555
+death,2023,other,17,3947,0.004
+death,2023,pace,3033,3947,0.768
+death,2023,spin,897,3947,0.227
+death,2024,pace,3059,3619,0.845
+death,2024,spin,560,3619,0.155

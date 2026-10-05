@@ -1,0 +1,42 @@
+player_id,name,status_2023,team_2023,status_2024,team_2024,price_2024_cr,movement
+8917,Moeen Ali,Retained,Chennai Super Kings,Retained,Chennai Super Kings,8.0,retained
+25913,Mohammad Nabi,Unsold,Unsold,Sold,Mumbai Indians,1.5,bought_by_a_team
+26421,Ravichandran Ashwin,Retained,Rajasthan Royals,Retained,Rajasthan Royals,5.0,retained
+30288,Karn Sharma,Retained,Royal Challengers Bengaluru,Retained,Royal Challengers Bengaluru,0.5,retained
+31107,Amit Mishra,Sold,Lucknow Super Giants,Retained,Lucknow Super Giants,0.5,retained
+32966,Piyush Chawla,Sold,Mumbai Indians,Retained,Mumbai Indians,0.5,retained
+230558,Sunil Narine,Retained,Kolkata Knight Riders,Retained,Kolkata Knight Riders,6.0,retained
+232292,Swapnil Singh,Sold,Lucknow Super Giants,Sold,Royal Challengers Bengaluru,0.2,bought_by_a_team
+234675,Ravindra Jadeja,Retained,Chennai Super Kings,Retained,Chennai Super Kings,16.0,retained
+299572,Sikandar Raza,Sold,Punjab Kings,Retained,Punjab Kings,0.5,retained
+325026,Glenn Maxwell,Retained,Royal Challengers Bengaluru,Retained,Royal Challengers Bengaluru,11.0,retained
+326968,Michael Bracewell,absent,,Unsold,Unsold,,unsold_at_later_auction
+379504,Adam Zampa,Sold,Rajasthan Royals,Retained,Rajasthan Royals,1.5,retained
+403902,Liam Livingstone,Retained,Punjab Kings,Retained,Punjab Kings,11.5,retained
+424377,Krishnappa Gowtham,Retained,Lucknow Super Giants,Retained,Lucknow Super Giants,0.9,retained
+430246,Yuzvendra Chahal,Retained,Rajasthan Royals,Retained,Rajasthan Royals,6.5,retained
+471342,Krunal Pandya,Retained,Lucknow Super Giants,Retained,Lucknow Super Giants,8.25,retained
+502714,Mitchell Santner,Retained,Chennai Super Kings,Retained,Chennai Super Kings,1.9,retained
+554691,Axar Patel,Retained,Delhi Capitals,Retained,Delhi Capitals,9.0,retained
+559235,Kuldeep Yadav,Retained,Delhi Capitals,Retained,Delhi Capitals,2.0,retained
+600498,Aiden Markram,absent,,Retained,Sunrisers Hyderabad,2.6,new_to_the_league
+719715,Washington Sundar,absent,,Retained,Sunrisers Hyderabad,8.75,new_to_the_league
+784379,Wanindu Hasaranga,Retained,Royal Challengers Bengaluru,Sold,Sunrisers Hyderabad,1.5,bought_by_a_team
+793463,Rashid Khan,Retained,Gujarat Titans,Retained,Gujarat Titans,15.0,retained
+930189,Lalit Yadav,Retained,Delhi Capitals,Retained,Delhi Capitals,0.65,retained
+942367,Mayank Dagar,Sold,Sunrisers Hyderabad,Traded,Royal Challengers Bengaluru,1.8,traded
+1048739,Sai Kishore,Retained,Gujarat Titans,Retained,Gujarat Titans,3.0,retained
+1064812,Rahul Chahar,Retained,Punjab Kings,Retained,Punjab Kings,5.25,retained
+1070183,Abhishek Sharma,Retained,Sunrisers Hyderabad,Retained,Sunrisers Hyderabad,6.5,retained
+1079839,Anukul Roy,Retained,Kolkata Knight Riders,Retained,Kolkata Knight Riders,0.2,retained
+1081442,Mayank Markande,Sold,Sunrisers Hyderabad,Retained,Sunrisers Hyderabad,0.5,retained
+1108375,Varun Chakravarthy,Retained,Kolkata Knight Riders,Retained,Kolkata Knight Riders,8.0,retained
+1138316,Maheesh Theekshana,Retained,Chennai Super Kings,Retained,Chennai Super Kings,0.7,retained
+1153149,Vijayakanth Viyaskanth,absent,,absent,,,retained
+1159711,Shahbaz Ahmed,Retained,Royal Challengers Bengaluru,Traded,Sunrisers Hyderabad,2.4,traded
+1159843,Kumar Kartikeya,Retained,Mumbai Indians,Retained,Mumbai Indians,0.2,retained
+1168641,Harpreet Brar,Retained,Punjab Kings,Retained,Punjab Kings,3.8,retained
+1175423,Hrithik Shokeen,Retained,Mumbai Indians,Unsold,Unsold,,unsold_at_later_auction
+1175441,Ravi Bishnoi,Retained,Lucknow Super Giants,Retained,Lucknow Super Giants,4.0,retained
+1182529,Noor Ahmad,Retained,Gujarat Titans,Retained,Gujarat Titans,0.3,retained
+1350792,Suyash Sharma,Sold,Kolkata Knight Riders,Retained,Kolkata Knight Riders,0.2,retained

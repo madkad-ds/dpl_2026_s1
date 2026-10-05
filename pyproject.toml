@@ -22,6 +22,8 @@ dependencies = [
     "ipykernel>=7.3.0",
     "pytensor>=2.25",
     "ruptures==1.1.10",
+    "numba>=0.65",
+    "openpyxl>=3.1.5",
 ]
 
 # Dev-only tools: installed in this project but not part of the shipped package.

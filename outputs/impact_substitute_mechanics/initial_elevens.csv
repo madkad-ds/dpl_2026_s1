@@ -1,0 +1,291 @@
+match_id,season,team,all_rounder,batter,bowler,thin,eleven_size,recognised_bowlers,recognised_batters,team_batted_first,batted_first
+1359475,2023,Chennai Super Kings,2,5,2,2,11,4,7,Chennai Super Kings,True
+1359475,2023,Gujarat Titans,2,4,4,1,11,6,6,Chennai Super Kings,False
+1359476,2023,Kolkata Knight Riders,3,3,3,2,11,6,6,Punjab Kings,False
+1359476,2023,Punjab Kings,3,6,2,0,11,5,9,Punjab Kings,True
+1359477,2023,Delhi Capitals,3,5,2,1,11,5,8,Lucknow Super Giants,False
+1359477,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1359478,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359478,2023,Sunrisers Hyderabad,3,3,3,2,11,6,6,Rajasthan Royals,False
+1359479,2023,Mumbai Indians,1,7,3,0,11,4,8,Mumbai Indians,True
+1359479,2023,Royal Challengers Bengaluru,2,3,5,1,11,7,5,Mumbai Indians,False
+1359480,2023,Chennai Super Kings,2,5,2,2,11,4,7,Chennai Super Kings,True
+1359480,2023,Lucknow Super Giants,2,5,4,0,11,6,7,Chennai Super Kings,False
+1359481,2023,Delhi Capitals,3,6,2,0,11,5,9,Delhi Capitals,True
+1359481,2023,Gujarat Titans,2,5,4,0,11,6,7,Delhi Capitals,False
+1359482,2023,Punjab Kings,3,6,2,0,11,5,9,Punjab Kings,True
+1359482,2023,Rajasthan Royals,1,6,4,0,11,5,7,Punjab Kings,False
+1359483,2023,Kolkata Knight Riders,3,4,2,2,11,5,7,Kolkata Knight Riders,True
+1359483,2023,Royal Challengers Bengaluru,2,3,5,1,11,7,5,Kolkata Knight Riders,False
+1359484,2023,Lucknow Super Giants,2,4,5,0,11,7,6,Sunrisers Hyderabad,False
+1359484,2023,Sunrisers Hyderabad,3,5,2,1,11,5,8,Sunrisers Hyderabad,True
+1359485,2023,Delhi Capitals,3,5,3,0,11,6,8,Rajasthan Royals,False
+1359485,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359486,2023,Chennai Super Kings,1,5,3,2,11,4,6,Mumbai Indians,False
+1359486,2023,Mumbai Indians,1,7,3,0,11,4,8,Mumbai Indians,True
+1359487,2023,Gujarat Titans,1,7,3,0,11,4,8,Gujarat Titans,True
+1359487,2023,Kolkata Knight Riders,3,4,4,0,11,7,7,Gujarat Titans,False
+1359488,2023,Punjab Kings,2,6,2,1,11,4,8,Punjab Kings,True
+1359488,2023,Sunrisers Hyderabad,3,4,4,0,11,7,7,Punjab Kings,False
+1359489,2023,Lucknow Super Giants,2,5,4,0,11,6,7,Royal Challengers Bengaluru,False
+1359489,2023,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Royal Challengers Bengaluru,True
+1359490,2023,Delhi Capitals,3,5,2,1,11,5,8,Delhi Capitals,True
+1359490,2023,Mumbai Indians,1,6,4,0,11,5,7,Delhi Capitals,False
+1359491,2023,Chennai Super Kings,2,6,2,1,11,4,8,Rajasthan Royals,False
+1359491,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359492,2023,Gujarat Titans,2,5,4,0,11,6,7,Punjab Kings,False
+1359492,2023,Punjab Kings,2,7,2,0,11,4,9,Punjab Kings,True
+1359493,2023,Kolkata Knight Riders,3,4,4,0,11,7,7,Sunrisers Hyderabad,False
+1359493,2023,Sunrisers Hyderabad,3,4,4,0,11,7,7,Sunrisers Hyderabad,True
+1359494,2023,Delhi Capitals,4,4,2,1,11,6,8,Royal Challengers Bengaluru,False
+1359494,2023,Royal Challengers Bengaluru,2,4,5,0,11,7,6,Royal Challengers Bengaluru,True
+1359495,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1359495,2023,Punjab Kings,3,6,2,0,11,5,9,Lucknow Super Giants,False
+1359496,2023,Kolkata Knight Riders,3,5,3,0,11,6,8,Kolkata Knight Riders,True
+1359496,2023,Mumbai Indians,1,5,4,1,11,5,6,Kolkata Knight Riders,False
+1359497,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1359497,2023,Rajasthan Royals,1,6,4,0,11,5,7,Gujarat Titans,False
+1359498,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359498,2023,Royal Challengers Bengaluru,2,4,5,0,11,7,6,Chennai Super Kings,False
+1359499,2023,Mumbai Indians,1,6,4,0,11,5,7,Mumbai Indians,True
+1359499,2023,Sunrisers Hyderabad,4,4,3,0,11,7,8,Mumbai Indians,False
+1359500,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1359500,2023,Rajasthan Royals,1,6,4,0,11,5,7,Lucknow Super Giants,False
+1359501,2023,Punjab Kings,3,6,2,0,11,5,9,Royal Challengers Bengaluru,False
+1359501,2023,Royal Challengers Bengaluru,2,4,4,1,11,6,6,Royal Challengers Bengaluru,True
+1359502,2023,Delhi Capitals,4,4,3,0,11,7,8,Kolkata Knight Riders,False
+1359502,2023,Kolkata Knight Riders,2,4,2,3,11,4,6,Kolkata Knight Riders,True
+1359503,2023,Chennai Super Kings,2,6,3,0,11,5,8,Sunrisers Hyderabad,False
+1359503,2023,Sunrisers Hyderabad,4,4,3,0,11,7,8,Sunrisers Hyderabad,True
+1359504,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1359504,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Gujarat Titans,False
+1359505,2023,Mumbai Indians,1,5,5,0,11,6,6,Punjab Kings,False
+1359505,2023,Punjab Kings,3,7,1,0,11,4,10,Punjab Kings,True
+1359506,2023,Rajasthan Royals,1,6,4,0,11,5,7,Royal Challengers Bengaluru,False
+1359506,2023,Royal Challengers Bengaluru,2,4,4,1,11,6,6,Royal Challengers Bengaluru,True
+1359507,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359507,2023,Kolkata Knight Riders,2,4,3,2,11,5,6,Chennai Super Kings,False
+1359508,2023,Delhi Capitals,3,5,2,1,11,5,8,Delhi Capitals,True
+1359508,2023,Sunrisers Hyderabad,4,3,4,0,11,8,7,Delhi Capitals,False
+1359509,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1359509,2023,Mumbai Indians,1,5,5,0,11,6,6,Gujarat Titans,False
+1359510,2023,Kolkata Knight Riders,2,5,3,1,11,5,7,Kolkata Knight Riders,True
+1359510,2023,Royal Challengers Bengaluru,2,3,5,1,11,7,5,Kolkata Knight Riders,False
+1359511,2023,Chennai Super Kings,2,6,3,0,11,5,8,Rajasthan Royals,False
+1359511,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359512,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1359512,2023,Punjab Kings,3,5,2,1,11,5,8,Lucknow Super Giants,False
+1359513,2023,Gujarat Titans,2,5,4,0,11,6,7,Kolkata Knight Riders,False
+1359513,2023,Kolkata Knight Riders,3,5,2,1,11,5,8,Kolkata Knight Riders,True
+1359514,2023,Delhi Capitals,3,3,3,2,11,6,6,Sunrisers Hyderabad,False
+1359514,2023,Sunrisers Hyderabad,3,5,2,1,11,5,8,Sunrisers Hyderabad,True
+1359515,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359515,2023,Punjab Kings,4,5,2,0,11,6,9,Chennai Super Kings,False
+1359516,2023,Mumbai Indians,1,6,4,0,11,5,7,Rajasthan Royals,False
+1359516,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359517,2023,Lucknow Super Giants,2,4,5,0,11,7,6,Royal Challengers Bengaluru,False
+1359517,2023,Royal Challengers Bengaluru,1,5,3,2,11,4,6,Royal Challengers Bengaluru,True
+1359518,2023,Delhi Capitals,2,5,2,2,11,4,7,Delhi Capitals,True
+1359518,2023,Gujarat Titans,2,5,4,0,11,6,7,Delhi Capitals,False
+1359519,2023,Chennai Super Kings,2,5,4,0,11,6,7,Lucknow Super Giants,False
+1359519,2023,Lucknow Super Giants,2,4,4,1,11,6,6,Lucknow Super Giants,True
+1359520,2023,Mumbai Indians,1,6,4,0,11,5,7,Punjab Kings,False
+1359520,2023,Punjab Kings,3,6,2,0,11,5,9,Punjab Kings,True
+1359521,2023,Kolkata Knight Riders,3,5,3,0,11,6,8,Kolkata Knight Riders,True
+1359521,2023,Sunrisers Hyderabad,3,4,4,0,11,7,7,Kolkata Knight Riders,False
+1359522,2023,Gujarat Titans,2,5,4,0,11,6,7,Rajasthan Royals,False
+1359522,2023,Rajasthan Royals,1,6,4,0,11,5,7,Rajasthan Royals,True
+1359523,2023,Chennai Super Kings,2,5,4,0,11,6,7,Mumbai Indians,False
+1359523,2023,Mumbai Indians,1,7,3,0,11,4,8,Mumbai Indians,True
+1359524,2023,Delhi Capitals,3,5,3,0,11,6,8,Royal Challengers Bengaluru,False
+1359524,2023,Royal Challengers Bengaluru,1,5,3,2,11,4,6,Royal Challengers Bengaluru,True
+1359525,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1359525,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Gujarat Titans,False
+1359526,2023,Rajasthan Royals,2,5,2,2,11,4,7,Rajasthan Royals,True
+1359526,2023,Sunrisers Hyderabad,3,3,3,2,11,6,6,Rajasthan Royals,False
+1359527,2023,Kolkata Knight Riders,3,4,4,0,11,7,7,Punjab Kings,False
+1359527,2023,Punjab Kings,3,6,2,0,11,5,9,Punjab Kings,True
+1359528,2023,Mumbai Indians,1,5,5,0,11,6,6,Royal Challengers Bengaluru,False
+1359528,2023,Royal Challengers Bengaluru,1,5,4,1,11,5,6,Royal Challengers Bengaluru,True
+1359529,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359529,2023,Delhi Capitals,4,4,2,1,11,6,8,Chennai Super Kings,False
+1359530,2023,Kolkata Knight Riders,3,5,3,0,11,6,8,Kolkata Knight Riders,True
+1359530,2023,Rajasthan Royals,1,5,4,1,11,5,6,Kolkata Knight Riders,False
+1359531,2023,Gujarat Titans,2,5,4,0,11,6,7,Mumbai Indians,False
+1359531,2023,Mumbai Indians,1,5,4,1,11,5,6,Mumbai Indians,True
+1359532,2023,Lucknow Super Giants,2,5,4,0,11,6,7,Sunrisers Hyderabad,False
+1359532,2023,Sunrisers Hyderabad,3,4,3,1,11,6,7,Sunrisers Hyderabad,True
+1359533,2023,Delhi Capitals,3,4,3,1,11,6,7,Punjab Kings,False
+1359533,2023,Punjab Kings,4,5,2,0,11,6,9,Punjab Kings,True
+1359534,2023,Rajasthan Royals,1,5,4,1,11,5,6,Royal Challengers Bengaluru,False
+1359534,2023,Royal Challengers Bengaluru,1,5,5,0,11,6,6,Royal Challengers Bengaluru,True
+1359535,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359535,2023,Kolkata Knight Riders,3,4,4,0,11,7,7,Chennai Super Kings,False
+1359536,2023,Gujarat Titans,2,5,3,1,11,5,7,Gujarat Titans,True
+1359536,2023,Sunrisers Hyderabad,3,3,5,0,11,8,6,Gujarat Titans,False
+1359537,2023,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1359537,2023,Mumbai Indians,1,5,5,0,11,6,6,Lucknow Super Giants,False
+1359538,2023,Delhi Capitals,2,5,3,1,11,5,7,Delhi Capitals,True
+1359538,2023,Punjab Kings,3,5,3,0,11,6,8,Delhi Capitals,False
+1359539,2023,Royal Challengers Bengaluru,2,4,5,0,11,7,6,Sunrisers Hyderabad,False
+1359539,2023,Sunrisers Hyderabad,4,4,2,1,11,6,8,Sunrisers Hyderabad,True
+1359540,2023,Punjab Kings,3,6,2,0,11,5,9,Punjab Kings,True
+1359540,2023,Rajasthan Royals,0,6,4,1,11,4,6,Punjab Kings,False
+1359541,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1359541,2023,Delhi Capitals,3,4,2,2,11,5,7,Chennai Super Kings,False
+1359542,2023,Kolkata Knight Riders,3,5,3,0,11,6,8,Lucknow Super Giants,False
+1359542,2023,Lucknow Super Giants,2,5,4,0,11,6,7,Lucknow Super Giants,True
+1359543,2023,Mumbai Indians,1,5,5,0,11,6,6,Sunrisers Hyderabad,False
+1359543,2023,Sunrisers Hyderabad,3,3,3,2,11,6,6,Sunrisers Hyderabad,True
+1359544,2023,Gujarat Titans,2,4,4,1,11,6,6,Royal Challengers Bengaluru,False
+1359544,2023,Royal Challengers Bengaluru,1,5,5,0,11,6,6,Royal Challengers Bengaluru,True
+1370350,2023,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1370350,2023,Gujarat Titans,2,4,3,2,11,5,6,Chennai Super Kings,False
+1370351,2023,Lucknow Super Giants,2,5,4,0,11,6,7,Mumbai Indians,False
+1370351,2023,Mumbai Indians,1,5,5,0,11,6,6,Mumbai Indians,True
+1370352,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1370352,2023,Mumbai Indians,1,5,5,1,12,6,6,Gujarat Titans,False
+1370353,2023,Chennai Super Kings,2,5,4,0,11,6,7,Gujarat Titans,False
+1370353,2023,Gujarat Titans,2,6,3,0,11,5,8,Gujarat Titans,True
+1422119,2024,Chennai Super Kings,1,5,4,1,11,5,6,Royal Challengers Bengaluru,False
+1422119,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Royal Challengers Bengaluru,True
+1422120,2024,Delhi Capitals,3,4,2,2,11,5,7,Delhi Capitals,True
+1422120,2024,Punjab Kings,3,4,4,0,11,7,7,Delhi Capitals,False
+1422121,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1422121,2024,Sunrisers Hyderabad,4,4,3,0,11,7,8,Kolkata Knight Riders,False
+1422122,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Rajasthan Royals,False
+1422122,2024,Rajasthan Royals,1,7,3,0,11,4,8,Rajasthan Royals,True
+1422123,2024,Gujarat Titans,1,6,4,0,11,5,7,Gujarat Titans,True
+1422123,2024,Mumbai Indians,1,5,3,2,11,4,6,Gujarat Titans,False
+1422124,2024,Punjab Kings,3,4,4,0,11,7,7,Punjab Kings,True
+1422124,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Punjab Kings,False
+1422125,2024,Chennai Super Kings,1,6,3,1,11,4,7,Chennai Super Kings,True
+1422125,2024,Gujarat Titans,1,5,5,0,11,6,6,Chennai Super Kings,False
+1422126,2024,Mumbai Indians,1,5,3,2,11,4,6,Sunrisers Hyderabad,False
+1422126,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1422127,2024,Delhi Capitals,3,3,3,2,11,6,6,Rajasthan Royals,False
+1422127,2024,Rajasthan Royals,1,7,3,0,11,4,8,Rajasthan Royals,True
+1422128,2024,Kolkata Knight Riders,2,5,4,0,11,6,7,Royal Challengers Bengaluru,False
+1422128,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Royal Challengers Bengaluru,True
+1422129,2024,Lucknow Super Giants,2,6,2,1,11,4,8,Lucknow Super Giants,True
+1422129,2024,Punjab Kings,3,4,4,0,11,7,7,Lucknow Super Giants,False
+1422130,2024,Gujarat Titans,1,5,4,1,11,5,6,Sunrisers Hyderabad,False
+1422130,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1422131,2024,Chennai Super Kings,1,5,4,1,11,5,6,Delhi Capitals,False
+1422131,2024,Delhi Capitals,2,5,4,0,11,6,7,Delhi Capitals,True
+1422132,2024,Mumbai Indians,1,5,4,1,11,5,6,Mumbai Indians,True
+1422132,2024,Rajasthan Royals,1,7,3,0,11,4,8,Mumbai Indians,False
+1422133,2024,Lucknow Super Giants,2,5,4,0,11,6,7,Lucknow Super Giants,True
+1422133,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Lucknow Super Giants,False
+1422134,2024,Delhi Capitals,2,4,4,1,11,6,6,Kolkata Knight Riders,False
+1422134,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1422135,2024,Gujarat Titans,1,5,3,2,11,4,6,Gujarat Titans,True
+1422135,2024,Punjab Kings,3,5,3,0,11,6,8,Gujarat Titans,False
+1422136,2024,Chennai Super Kings,2,6,3,0,11,5,8,Chennai Super Kings,True
+1422136,2024,Sunrisers Hyderabad,6,2,3,0,11,9,8,Chennai Super Kings,False
+1422137,2024,Rajasthan Royals,1,7,3,0,11,4,8,Royal Challengers Bengaluru,False
+1422137,2024,Royal Challengers Bengaluru,2,4,4,1,11,6,6,Royal Challengers Bengaluru,True
+1422138,2024,Delhi Capitals,2,5,3,1,11,5,7,Mumbai Indians,False
+1422138,2024,Mumbai Indians,1,5,5,0,11,6,6,Mumbai Indians,True
+1422139,2024,Gujarat Titans,1,4,4,2,11,5,5,Lucknow Super Giants,False
+1422139,2024,Lucknow Super Giants,2,5,4,0,11,6,7,Lucknow Super Giants,True
+1426260,2024,Chennai Super Kings,2,5,3,1,11,5,7,Kolkata Knight Riders,False
+1426260,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426261,2024,Punjab Kings,4,4,3,0,11,7,8,Sunrisers Hyderabad,False
+1426261,2024,Sunrisers Hyderabad,6,3,2,0,11,8,9,Sunrisers Hyderabad,True
+1426262,2024,Gujarat Titans,1,5,4,1,11,5,6,Rajasthan Royals,False
+1426262,2024,Rajasthan Royals,1,7,3,0,11,4,8,Rajasthan Royals,True
+1426263,2024,Mumbai Indians,1,4,5,1,11,6,5,Royal Challengers Bengaluru,False
+1426263,2024,Royal Challengers Bengaluru,1,6,3,1,11,4,7,Royal Challengers Bengaluru,True
+1426264,2024,Delhi Capitals,2,6,3,0,11,5,8,Lucknow Super Giants,False
+1426264,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1426265,2024,Punjab Kings,3,5,3,0,11,6,8,Punjab Kings,True
+1426265,2024,Rajasthan Royals,0,6,3,2,11,3,6,Punjab Kings,False
+1426266,2024,Kolkata Knight Riders,2,5,4,0,11,6,7,Lucknow Super Giants,False
+1426266,2024,Lucknow Super Giants,2,6,2,1,11,4,8,Lucknow Super Giants,True
+1426267,2024,Chennai Super Kings,2,6,2,1,11,4,8,Chennai Super Kings,True
+1426267,2024,Mumbai Indians,1,4,5,1,11,6,5,Chennai Super Kings,False
+1426268,2024,Royal Challengers Bengaluru,0,6,4,1,11,4,6,Sunrisers Hyderabad,False
+1426268,2024,Sunrisers Hyderabad,6,3,2,0,11,8,9,Sunrisers Hyderabad,True
+1426269,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426269,2024,Rajasthan Royals,1,7,3,0,11,4,8,Kolkata Knight Riders,False
+1426270,2024,Delhi Capitals,2,5,3,1,11,5,7,Gujarat Titans,False
+1426270,2024,Gujarat Titans,1,6,4,0,11,5,7,Gujarat Titans,True
+1426271,2024,Mumbai Indians,1,5,4,1,11,5,6,Mumbai Indians,True
+1426271,2024,Punjab Kings,4,4,3,0,11,7,8,Mumbai Indians,False
+1426272,2024,Chennai Super Kings,2,5,4,0,11,6,7,Chennai Super Kings,True
+1426272,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Chennai Super Kings,False
+1426273,2024,Delhi Capitals,3,5,3,0,11,6,8,Sunrisers Hyderabad,False
+1426273,2024,Sunrisers Hyderabad,6,3,2,0,11,8,9,Sunrisers Hyderabad,True
+1426274,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426274,2024,Royal Challengers Bengaluru,1,6,4,0,11,5,7,Kolkata Knight Riders,False
+1426275,2024,Gujarat Titans,1,5,5,0,11,6,6,Punjab Kings,False
+1426275,2024,Punjab Kings,4,4,3,0,11,7,8,Punjab Kings,True
+1426276,2024,Mumbai Indians,1,6,4,0,11,5,7,Mumbai Indians,True
+1426276,2024,Rajasthan Royals,1,7,3,0,11,4,8,Mumbai Indians,False
+1426277,2024,Chennai Super Kings,2,5,4,0,11,6,7,Chennai Super Kings,True
+1426277,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Chennai Super Kings,False
+1426278,2024,Delhi Capitals,2,6,3,0,11,5,8,Delhi Capitals,True
+1426278,2024,Gujarat Titans,1,5,5,0,11,6,6,Delhi Capitals,False
+1426279,2024,Royal Challengers Bengaluru,1,6,4,0,11,5,7,Royal Challengers Bengaluru,True
+1426279,2024,Sunrisers Hyderabad,6,2,3,0,11,9,8,Royal Challengers Bengaluru,False
+1426280,2024,Kolkata Knight Riders,2,6,2,1,11,4,8,Kolkata Knight Riders,True
+1426280,2024,Punjab Kings,3,4,4,0,11,7,7,Kolkata Knight Riders,False
+1426281,2024,Delhi Capitals,2,5,2,2,11,4,7,Delhi Capitals,True
+1426281,2024,Mumbai Indians,1,5,4,1,11,5,6,Delhi Capitals,False
+1426282,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Lucknow Super Giants,True
+1426282,2024,Rajasthan Royals,1,7,3,0,11,4,8,Lucknow Super Giants,False
+1426283,2024,Gujarat Titans,1,6,4,0,11,5,7,Gujarat Titans,True
+1426283,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Gujarat Titans,False
+1426284,2024,Chennai Super Kings,2,5,4,0,11,6,7,Chennai Super Kings,True
+1426284,2024,Sunrisers Hyderabad,6,3,2,0,11,8,9,Chennai Super Kings,False
+1426285,2024,Delhi Capitals,2,6,2,1,11,4,8,Delhi Capitals,True
+1426285,2024,Kolkata Knight Riders,2,5,4,0,11,6,7,Delhi Capitals,False
+1426286,2024,Lucknow Super Giants,2,5,3,1,11,5,7,Mumbai Indians,False
+1426286,2024,Mumbai Indians,1,6,4,0,11,5,7,Mumbai Indians,True
+1426287,2024,Chennai Super Kings,3,5,2,1,11,5,8,Chennai Super Kings,True
+1426287,2024,Punjab Kings,3,4,4,0,11,7,7,Chennai Super Kings,False
+1426288,2024,Rajasthan Royals,1,7,3,0,11,4,8,Sunrisers Hyderabad,False
+1426288,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1426289,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426289,2024,Mumbai Indians,1,6,4,0,11,5,7,Kolkata Knight Riders,False
+1426290,2024,Gujarat Titans,1,6,3,1,11,4,7,Gujarat Titans,True
+1426290,2024,Royal Challengers Bengaluru,2,4,5,0,11,7,6,Gujarat Titans,False
+1426291,2024,Chennai Super Kings,3,5,2,1,11,5,8,Chennai Super Kings,True
+1426291,2024,Punjab Kings,3,4,4,0,11,7,7,Chennai Super Kings,False
+1426292,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426292,2024,Lucknow Super Giants,2,5,3,1,11,5,7,Kolkata Knight Riders,False
+1426293,2024,Mumbai Indians,1,6,4,0,11,5,7,Sunrisers Hyderabad,False
+1426293,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1426294,2024,Delhi Capitals,2,5,3,1,11,5,7,Delhi Capitals,True
+1426294,2024,Rajasthan Royals,1,5,3,2,11,4,6,Delhi Capitals,False
+1426295,2024,Lucknow Super Giants,2,5,4,0,11,6,7,Lucknow Super Giants,True
+1426295,2024,Sunrisers Hyderabad,4,3,4,0,11,8,7,Lucknow Super Giants,False
+1426296,2024,Punjab Kings,3,4,3,1,11,6,7,Royal Challengers Bengaluru,False
+1426296,2024,Royal Challengers Bengaluru,1,6,4,0,11,5,7,Royal Challengers Bengaluru,True
+1426297,2024,Chennai Super Kings,3,5,3,0,11,6,8,Gujarat Titans,False
+1426297,2024,Gujarat Titans,1,5,4,1,11,5,6,Gujarat Titans,True
+1426298,2024,Kolkata Knight Riders,2,6,3,0,11,5,8,Kolkata Knight Riders,True
+1426298,2024,Mumbai Indians,1,6,4,0,11,5,7,Kolkata Knight Riders,False
+1426299,2024,Chennai Super Kings,3,5,3,0,11,6,8,Rajasthan Royals,False
+1426299,2024,Rajasthan Royals,1,6,3,1,11,4,7,Rajasthan Royals,True
+1426300,2024,Delhi Capitals,2,4,4,1,11,6,6,Royal Challengers Bengaluru,False
+1426300,2024,Royal Challengers Bengaluru,1,6,4,0,11,5,7,Royal Challengers Bengaluru,True
+1426302,2024,Delhi Capitals,2,5,3,1,11,5,7,Delhi Capitals,True
+1426302,2024,Lucknow Super Giants,2,6,3,0,11,5,8,Delhi Capitals,False
+1426303,2024,Punjab Kings,2,5,4,0,11,6,7,Rajasthan Royals,False
+1426303,2024,Rajasthan Royals,1,6,3,1,11,4,7,Rajasthan Royals,True
+1426305,2024,Lucknow Super Giants,2,7,2,0,11,4,9,Lucknow Super Giants,True
+1426305,2024,Mumbai Indians,1,4,5,1,11,6,5,Lucknow Super Giants,False
+1426306,2024,Chennai Super Kings,2,5,4,0,11,6,7,Royal Challengers Bengaluru,False
+1426306,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Royal Challengers Bengaluru,True
+1426307,2024,Punjab Kings,2,4,5,0,11,7,6,Punjab Kings,True
+1426307,2024,Sunrisers Hyderabad,5,3,3,0,11,8,8,Punjab Kings,False
+1426309,2024,Kolkata Knight Riders,2,5,4,0,11,6,7,Sunrisers Hyderabad,False
+1426309,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1426310,2024,Rajasthan Royals,1,6,3,1,11,4,7,Royal Challengers Bengaluru,False
+1426310,2024,Royal Challengers Bengaluru,2,5,4,0,11,6,7,Royal Challengers Bengaluru,True
+1426311,2024,Rajasthan Royals,1,6,3,1,11,4,7,Sunrisers Hyderabad,False
+1426311,2024,Sunrisers Hyderabad,5,4,2,0,11,7,9,Sunrisers Hyderabad,True
+1426312,2024,Kolkata Knight Riders,2,5,4,0,11,6,7,Sunrisers Hyderabad,False
+1426312,2024,Sunrisers Hyderabad,6,3,2,0,11,8,9,Sunrisers Hyderabad,True

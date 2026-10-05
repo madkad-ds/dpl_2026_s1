@@ -1,0 +1,19 @@
+{
+  "figure": "batter_decomposition",
+  "title": "Half the rise was three openers; most of the other half was bought",
+  "caption": "Exact decomposition of the powerplay six-rate change over batters, match bootstrap intervals; entrants split by how they came to face the balls, from the auction tables.",
+  "narration": "Abhishek Sharma, Virat Kohli and David Warner carry more than the whole same-batters part; of the entrant effect, three quarters were bought or signed and a quarter promoted from within squads.",
+  "numbers": {
+    "league_change": 1.8020425153728699,
+    "within": 0.78786359652469,
+    "composition": 1.01417891884817,
+    "composition_continuing_reweight": 0.15190453550491,
+    "composition_entrants": 1.5576323987538898,
+    "composition_exits": -0.69535801541063,
+    "entrants_by_route": {
+      "bought": 0.81775700934579,
+      "not_in_auction_table": 0.40887850467289005,
+      "promoted_from_squad": 0.3309968847352
+    }
+  }
+}

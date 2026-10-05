@@ -1,0 +1,14 @@
+{
+  "figure": "spin_decomposition",
+  "title": "Spin was picked less and benched more; squads and workload unchanged",
+  "caption": "Change in the spin share of legal balls, percentage points, attributed exactly to selection (spinners named per eleven), deployment (share of named spinners who bowled), workload (balls per spinner who bowled) and innings length, under the match bootstrap.",
+  "narration": "Teams kept and bought spinners as before, named a third of a spinner fewer per eleven and bowled fewer of the ones they named; the middle overs were a headcount story.",
+  "numbers": {
+    "totals": {
+      "whole innings": -8.033245368556818,
+      "powerplay": -6.1118030936944425,
+      "middle": -9.953881577963386,
+      "death": -7.26887805858189
+    }
+  }
+}

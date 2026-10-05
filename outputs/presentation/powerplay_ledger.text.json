@@ -1,0 +1,12 @@
+{
+  "figure": "powerplay_ledger",
+  "title": "What the 2024 powerplay mix was worth, at 2023 prices",
+  "caption": "Each outcome priced as the mean change in the provided win probability on such balls; the change in each outcome's share of powerplay deliveries times its price, per 36-ball powerplay, match bootstrap intervals. Win probability is team-agnostic and weaker in first innings.",
+  "narration": "About four win-probability points per powerplay, almost all from sixes; the wicket cost was small and mostly luck.",
+  "numbers": {
+    "net": 3.8309547032570945,
+    "net_low": 0.2326916895086927,
+    "net_high": 7.592169299168715,
+    "six": 3.2002936612613317
+  }
+}

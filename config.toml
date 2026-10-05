@@ -72,18 +72,59 @@ draws = 2000
 tune = 2000
 target_accept = 0.99
 
+# Powerplay divergence attribution, read from the gear-up model's posterior draws.
+[attribution]
+top_k_rank = 3             # report P(rank <= top_k_rank) per team
+credible_level = 0.90      # interval on pull and variance contributions
+share_gate = 0.90          # shares reported only if P(variance change > 0) >= this
+
 [interval_coverage]
 n_datasets = 10000
 n_resamples_per_dataset = 10000
 league_clusters_per_season = 70
 team_clusters_per_season = 14
+run_rate_difference_effects_rpo = [0.0, 0.7]
+six_rate_difference_effects = [0.0, 0.01]
+six_rate_ratio_effects = [1.0, 1.4]
+n_jobs = 4
 
+# Phase-boundary detection on first-innings over profiles.
+[phase_boundaries]
+n_resamples = 10000            # match cluster bootstrap for the piecewise-linear detector
+robustness_resamples = 2000    # same, for the RBF-cost rerun
+resolution_check_resamples = 2000   # synthetic fixture with a planted one-over move
+
+# Situation-only expected wickets.
 [expected_wickets]
-model_refit_resamples = 500
+model_refit_resamples = 500        # full-pipeline refits on the first n shared draws
+refit_n_jobs = 4                   # worker processes for the refits
+decomposition_orders = 30          # random feature orders for the sampled-Shapley decomposition
+baseline_tie_tolerance_brier = 0.0002   # Brier gap at or below which the logistic model is chosen
 
 [paths]
 data_dir = "data"
 outputs_dir = "outputs"
-cleaned_dataset = "dpl_prelims_clean.parquet"
+raw_csv = "Data_Premier_League_Prelims_Dataset.csv"   # the provided ball-by-ball file
+validated_dataset = "dpl_prelims.parquet"           # schema-validated, unchanged values
+cleaned_dataset = "dpl_prelims_clean.parquet"       # validated plus the repairs and derived columns
 impact_player_table = "impact_player_table.parquet"
 match_rosters = "match_rosters.parquet"
+auction_workbook = "IPL_Auction_2023_24.xlsx"           # the provided auction tables, one sheet per season
+
+# Same batters or different batters: batter-level decomposition of a league rate change.
+[batter_continuity]
+min_balls_per_season = 30   # a batter's own rate is displayed and tested only above this in both seasons
+
+# Impact-substitute mechanics: player roles from the two-season record.
+[impact_substitute_mechanics]
+role_min_balls = 60   # balls faced or bowled across both seasons to count as a batter or bowler
+
+# Bowling response in the powerplay: delivery classes and bowler continuity.
+[bowling_response]
+thin_class_floor = 300      # a class below this many legal balls in either season is marked thin
+bowler_min_balls = 60       # a bowler's own rate is displayed and tested only above this in both seasons
+
+# Why pace displaced spin: spinner classification for the selection-or-usage decomposition.
+[spin_displacement]
+spinner_min_balls = 60      # legal balls across both seasons to count as a spinner (mostly spin)
+

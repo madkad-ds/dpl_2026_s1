@@ -1,0 +1,24 @@
+{
+  "figure": "speed_bands",
+  "title": "Pace was the target; the slower ball held, and was cut",
+  "caption": "Pace deliveries in the powerplay by tracked speed band, sixes per 100 legal balls, season change with match bootstrap intervals.",
+  "narration": "Balls over 140 went from the safest class to the most hit; balls under 130 held their six rate and took more wickets, and bowlers cut the slower ball from 14% to 5.5% of deliveries.",
+  "numbers": {
+    "over 140 kph": {
+      "2023": 3.11173974540311,
+      "2024": 6.989247311827949
+    },
+    "130 to 140": {
+      "2023": 4.24328147100424,
+      "2024": 5.9042113955408695
+    },
+    "under 130": {
+      "2023": 5.3012048192771,
+      "2024": 5.40037243947858
+    },
+    "slower_ball_share": {
+      "2023": 0.1409674981103552,
+      "2024": 0.0549687010954616
+    }
+  }
+}

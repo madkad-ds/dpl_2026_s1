@@ -1,0 +1,7 @@
+column,dtype,non_null,distinct
+bowler_charge,int64,34967,8
+p_out_clean,float64,1797,202
+control_clean,float64,33557,2
+wagonzone_clean,float64,29339,8
+has_placement,bool,34967,2
+bowl_type_group,str,34967,10

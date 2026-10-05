@@ -1,0 +1,5 @@
+population,year,raw_gear_up_sd,min_team_death_balls,status
+first_innings_retained,2023,1.0626511250341095,148,tested (model rows)
+first_innings_retained,2024,1.1303472920157034,120,tested (model rows)
+second_innings,2023,1.3235509637103835,110,"censored by the target, not tested"
+second_innings,2024,1.529666685267315,24,"censored by the target, not tested"

@@ -1,0 +1,4 @@
+leg,sd_diff,ci_low,ci_high,p_widen,column_exposure,p_all_three_widened,p_both_clean_legs_widened,n_resamples
+run_rate_level,0.48967393611320087,-0.076657598862697,1.0591104239912725,0.9542,"clean (score, over_num)",0.8479,0.8561,10000
+attempt_share,0.02246664316906949,0.0028211419733420963,0.03890737932061942,0.9884,tagged (shot),0.8479,0.8561,10000
+gear_up_from_baseline,0.4810737608409291,-0.2693153240777174,1.0810431843016304,0.8767,"clean (score, over_num)",0.8479,0.8561,10000

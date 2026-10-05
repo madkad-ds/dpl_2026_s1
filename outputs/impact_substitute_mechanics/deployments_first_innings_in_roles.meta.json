@@ -1,0 +1,32 @@
+{
+  "analysis": "impact_substitute_mechanics",
+  "seed": 202609081209,
+  "run_timestamp_utc": "2026-09-13T15:05:23+00:00",
+  "producer": "impact_substitute_mechanics.ipynb",
+  "bootstrap": {
+    "n_resamples": 10000,
+    "interval_level": 0.95,
+    "equivalence_level": 0.9,
+    "mde_se_multiple": 2.8,
+    "ratio_bias_flag_se_multiple": 0.25
+  },
+  "seasons": {
+    "earlier": 2023,
+    "later": 2024
+  },
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "sklearn": "1.9.0",
+    "statsmodels": "0.14.6",
+    "pymc": "6.3.1",
+    "arviz": "1.3.0",
+    "ruptures": "v1.1.10",
+    "matplotlib": "3.11.1"
+  },
+  "command": "/Users/madkad/dpl_2026_s1/.venv/lib/python3.12/site-packages/ipykernel_launcher.py --f=/Users/madkad/Library/Jupyter/runtime/kernel-v33a269c20721fa6e8666079eb479e5519130f5881.json",
+  "n_resamples": 10000,
+  "role_min_balls": 60
+}

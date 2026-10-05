@@ -1,0 +1,54 @@
+{
+  "first_innings_full_allowance": {
+    "threshold": 180,
+    "target": 220,
+    "n_exceed_earlier": 40,
+    "n_exceed_later": 40,
+    "gate_min_exceedances": 15,
+    "fitted": true,
+    "earlier": {
+      "n_exceed": 40,
+      "shape": -0.42227754936814554,
+      "scale": 35.53145693928743,
+      "exceed_rate": 0.5405405405405406,
+      "p_over_target": 0.11732244891966034
+    },
+    "later": {
+      "n_exceed": 40,
+      "shape": -0.37486482664726717,
+      "scale": 49.12814266232329,
+      "exceed_rate": 0.5714285714285714,
+      "p_over_target": 0.21631144573869512
+    },
+    "p_over_target_difference": 0.09898899681903478,
+    "difference_low": -0.019797453453584298,
+    "difference_high": 0.23199058238303083,
+    "n_bootstrap_fits": 2000
+  },
+  "first_innings_plus_failed_chases": {
+    "threshold": 180,
+    "target": 220,
+    "n_exceed_earlier": 52,
+    "n_exceed_later": 57,
+    "gate_min_exceedances": 15,
+    "fitted": true,
+    "earlier": {
+      "n_exceed": 52,
+      "shape": -0.3658929594149105,
+      "scale": 31.439610013456452,
+      "exceed_rate": 0.45614035087719296,
+      "p_over_target": 0.08232425486022284
+    },
+    "later": {
+      "n_exceed": 57,
+      "shape": -0.31946695428960514,
+      "scale": 43.8783640040308,
+      "exceed_rate": 0.5480769230769231,
+      "p_over_target": 0.18659153761574548
+    },
+    "p_over_target_difference": 0.10426728275552265,
+    "difference_low": 0.01083948241558873,
+    "difference_high": 0.20616644117763328,
+    "n_bootstrap_fits": 2000
+  }
+}

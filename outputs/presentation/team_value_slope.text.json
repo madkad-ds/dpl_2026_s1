@@ -1,0 +1,48 @@
+{
+  "figure": "team_value_slope",
+  "title": "Who took the risk: three teams, and the order reversed",
+  "caption": "Value of the powerplay outcome mix per team-season, points per powerplay at pooled prices, means over about fourteen powerplays; read as tiers.",
+  "narration": "Sunrisers, Kolkata and Delhi attacked most and bought two to three times the value of the five teams that attacked least, paying a wicket cost no different from what their situations predicted.",
+  "numbers": {
+    "Chennai": {
+      "2023": 14.233668746775546,
+      "2024": 8.706923321782332
+    },
+    "Delhi": {
+      "2023": 3.5475899576420553,
+      "2024": 16.21051790681619
+    },
+    "Gujarat": {
+      "2023": 8.87296328754449,
+      "2024": 3.308074437048641
+    },
+    "Kolkata": {
+      "2023": 3.4324693502594563,
+      "2024": 19.962958445773864
+    },
+    "Lucknow": {
+      "2023": 3.3075257720609126,
+      "2024": 3.4139171923704743
+    },
+    "Mumbai": {
+      "2023": 11.115247875949995,
+      "2024": 9.810398104620967
+    },
+    "Punjab": {
+      "2023": 6.447587436976618,
+      "2024": 7.773961802304621
+    },
+    "Rajasthan": {
+      "2023": 10.878550762646697,
+      "2024": 8.63106556680836
+    },
+    "Bengaluru": {
+      "2023": 13.352684447649514,
+      "2024": 13.841829150150977
+    },
+    "Sunrisers": {
+      "2023": 2.6084065981538096,
+      "2024": 20.525869483566883
+    }
+  }
+}

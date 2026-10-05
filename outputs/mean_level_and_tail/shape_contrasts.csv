@@ -1,0 +1,5 @@
+theme,estimate,ci_low,ci_high,interval_method,bca_low,bca_high,boot_t_low,boot_t_high,raw_scale_bca_low,raw_scale_bca_high,null,resampling_stable,se_boot,se_linearized,log_ratio_bias,log_ratio_bias_flag,scale,interval_level,power_tier,note
+middle_rpo_minus_league_rpo,-0.1728,-0.4539,0.1057,bootstrap_t,-0.455,0.0949,-0.4539,0.1057,,,0.0,False,0.14135,0.14304,,False,linear,0.95,composite,Negative = middle lagged the overall acceleration.
+bookending_curvature_boundary,0.0238,-0.0142,0.0601,bootstrap_t,-0.0122,0.0607,-0.0142,0.0601,,,0.0,False,0.01845,0.01855,,False,linear,0.95,well_powered,Positive = ends rose relative to the middle (U-shape).
+bookending_curvature_six,0.014,-0.011,0.0399,bootstrap_t,-0.0104,0.0403,-0.011,0.0399,,,0.0,False,0.01278,0.01291,,False,linear,0.95,well_powered,Positive = ends rose relative to the middle (U-shape).
+bookending_curvature_rpo,0.6844,-0.3556,1.7238,bootstrap_t,-0.3068,1.7298,-0.3556,1.7238,,,0.0,False,0.52122,0.52772,,False,linear,0.95,composite,Positive = ends rose relative to the middle (U-shape).

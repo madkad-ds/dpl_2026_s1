@@ -1,0 +1,4 @@
+theme,estimate,ci_low,ci_high,interval_method,bca_low,bca_high,boot_t_low,boot_t_high,raw_scale_bca_low,raw_scale_bca_high,null,resampling_stable,se_boot,se_linearized,log_ratio_bias,log_ratio_bias_flag,scale,interval_level,power_tier,note
+dot_rate_diff_overs_7_9,0.002,-0.0373,0.041,bootstrap_t,-0.0365,0.0404,-0.0373,0.041,,,0.0,False,0.01959,0.01997,,False,linear,0.95,well_powered,"Dot rate on faced balls, first innings with full allowance."
+dot_rate_diff_overs_10_12,-0.0308,-0.0753,0.0134,bootstrap_t,-0.0747,0.0128,-0.0753,0.0134,,,0.0,False,0.02244,0.02242,,False,linear,0.95,well_powered,"Dot rate on faced balls, first innings with full allowance."
+dot_rate_diff_overs_1_6,-0.0075,-0.0424,0.0269,bootstrap_t,-0.0419,0.0262,-0.0424,0.0269,,,0.0,False,0.01723,0.0174,,False,linear,0.95,well_powered,"Dot rate on faced balls, first innings with full allowance."
