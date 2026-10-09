@@ -1,6 +1,6 @@
 # Methodology: how each result was produced, and why that way
 
-A record of the methods behind every finding in this project, written so I can defend each decision later and so a reader meeting these methods for the first time can follow what was done and why. It pairs with `findings.md`, which holds the results; this document holds the reasoning. Every method is explained in plain terms the first time it appears, then referred to by name. Code for each method lives in the scripts folder named in the relevant section; the notebooks only run the scripts and display the results.
+A record of the methods behind every finding in this project. It pairs with `findings.md`, which holds the results; this document holds the reasoning. Every method is explained in plain terms the first time it appears, then referred to by name. Code for each method lives in the scripts folder named in the relevant section; the notebooks only run the scripts and display the results.
 
 ## 1. The shape of the problem
 
